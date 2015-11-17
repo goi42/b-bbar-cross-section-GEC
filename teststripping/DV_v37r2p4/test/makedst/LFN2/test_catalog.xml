@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- Edited By POOL -->
+<!DOCTYPE POOLFILECATALOG SYSTEM "InMemory">
+<POOLFILECATALOG>
+  <File ID="90A92873-848C-E511-B8E5-02163E010F9B">
+    <physical>
+      <pfn filetype="ROOT" name="000000.Semileptonic.dst"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="EA2A4C74-848C-E511-B8E5-02163E010F9B">
+    <physical>
+      <pfn filetype="ROOT" name="000000.Charm.mdst"/>
+    </physical>
+    <logical/>
+  </File>
+
+</POOLFILECATALOG>
