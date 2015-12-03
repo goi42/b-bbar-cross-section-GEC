@@ -157,4 +157,4 @@ DaVinci().DDDBtag   = "dddb-20150724"
 DaVinci().CondDBtag = "cond-20150828"
 
 # input file
-importOptions("/afs/cern.ch/user/m/mwilkins/b_b-bar_cross-section/GEC/teststripping/DV_v37r2p4/test/makedst/Reco15a_Run164668_modified.py")
+#importOptions("/afs/cern.ch/user/m/mwilkins/b_b-bar_cross-section/GEC/teststripping/DV_v37r2p4/test/makedst/Reco15a_Run164668_modified.py")

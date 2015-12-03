@@ -4,8 +4,9 @@ myApplication = DaVinci(version='v37r2p4')
 myApplication.user_release_area = '~/cmtuser'
 
 j = Job(name='noGEC_dst', application=myApplication, backend=Dirac())
-j.comment = 'all LFN, commented out input in optsfile, no splitter'
+j.comment = 'all LFN, commented out input in optsfile, listed Reco as optsfile'
 j.splitter = SplitByFiles(filesPerJob=5)
-j.application.optsfile = './TestMyStrippingLine_noGEC_modified.py'
-j.inputdata = j.application.readInputData('./Reco15a_Run164668_modified.py')
+myOptsfiles = ['./TestMyStrippingLine_noGEC_modified.py','./Reco15a_Run164668_modified.py']
+j.application.optsfile = myOptsfiles
+j.inputdata = j.application.readInputData(myOptsfiles)
 j.submit()
