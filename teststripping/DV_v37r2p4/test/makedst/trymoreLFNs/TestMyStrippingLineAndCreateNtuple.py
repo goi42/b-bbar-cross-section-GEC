@@ -326,7 +326,7 @@ DaVinci().UserAlgorithms = [
 			]
 
 # input file
-importOptions("164668_Real Data_Reco15a_90000000_RDST.py")
+#importOptions("164668_Real Data_Reco15a_90000000_RDST.py")
 # from Gaudi.Configuration import *
 # from GaudiConf import IOHelper
 # IOHelper('ROOT').inputFiles(['00048237_00008700_1.rdst'], clear=True)
