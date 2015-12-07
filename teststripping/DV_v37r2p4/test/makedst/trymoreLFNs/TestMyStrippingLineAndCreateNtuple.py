@@ -326,8 +326,8 @@ DaVinci().UserAlgorithms = [
 			]
 
 # input file
-#importOptions("/afs/cern.ch/user/m/mwilkins/b_b-bar_cross-section/GEC/teststripping/DV_v37r2p4/test/makedst/Reco15a_Run164668_modified.py")
-#from Gaudi.Configuration import *
-#from GaudiConf import IOHelper
-#IOHelper('ROOT').inputFiles(['00048237_00008700_1.rdst'], clear=True)
-#FileCatalog().Catalogs += [ 'xmlcatalog_file:$STRIPPINGSELECTIONSROOT/tests/data/Reco15a_Run164668.xml' ]
+importOptions("164668_Real Data_Reco15a_90000000_RDST.py")
+# from Gaudi.Configuration import *
+# from GaudiConf import IOHelper
+# IOHelper('ROOT').inputFiles(['00048237_00008700_1.rdst'], clear=True)
+# FileCatalog().Catalogs += [ 'xmlcatalog_file:$STRIPPINGSELECTIONSROOT/tests/data/Reco15a_Run164668.xml' ]

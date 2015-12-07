@@ -1,4 +1,4 @@
-j = Job(application=DaVinci(version='v38r0'))
+j = Job(application=DaVinci(version='v37r2p4'))
 j.backend = Dirac()
 j.name = 'noGEC'
 j.inputdata = j.application.readInputData('Reco15a_Run164668_modified.py')
