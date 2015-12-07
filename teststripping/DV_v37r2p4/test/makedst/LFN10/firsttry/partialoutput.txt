@@ -1,0 +1,526 @@
+       #=  1
+StrippingStreamCharmBadEventFilterSequence:Execute             INFO Time User   : Tot=  381 [ms] Ave/Min/Max= 1.55(+- 40.4)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_Xic0VOIDFilter:Execute                       INFO Time User   : Tot=  416 [ms] Ave/Min/Max= 1.69(+- 41.5)/    0/2e+03 [us] #=245965
+StrippingStreamSemileptonicPreScaler:Execute                   INFO Time User   : Tot=  389 [ms] Ave/Min/Max= 1.58(+- 40.4)/    0/2e+03 [us] #=246021
+FSRInputCopyStreamSemileptonic_OStream:Execute                 INFO Time User   : Tot=  402 [ms] Ave/Min/Max= 1.63(+-   41)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_D0_Electro_TIMINGPreScaler:Execute           INFO Time User   : Tot=  395 [ms] Ave/Min/Max= 1.61(+- 40.2)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_Xic_TIMINGPreScaler:Execute                  INFO Time User   : Tot=  409 [ms] Ave/Min/Max= 1.66(+- 41.2)/    0/2e+03 [us] #=246021
+StrippingGoodEventConditionSemileptonic:Execute                INFO Time User   : Tot=0.515  [s] Ave/Min/Max= 2.09(+-   46)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_D0_PiP_TIMINGVOIDFilter:Execute              INFO Time User   : Tot=  414 [ms] Ave/Min/Max= 1.68(+- 41.8)/    0/2e+03 [us] #=245965
+StrippingB2DMuNuX_D0_PiP_TIMINGPreScaler:Execute               INFO Time User   : Tot=  388 [ms] Ave/Min/Max= 1.58(+- 40.7)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_D0_KK_TIMINGPreScaler:Execute                INFO Time User   : Tot=  400 [ms] Ave/Min/Max= 1.63(+- 40.7)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_D_TIMINGPreScaler:Execute                    INFO Time User   : Tot=  405 [ms] Ave/Min/Max= 1.65(+- 40.7)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_D0_PiPiPreScaler:Execute                     INFO Time User   : Tot=  369 [ms] Ave/Min/Max=  1.5(+-   39)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_Lc_TIMINGPreScaler:Execute                   INFO Time User   : Tot=  395 [ms] Ave/Min/Max= 1.61(+-   41)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_D0_KK_TIMINGVOIDFilter:Execute               INFO Time User   : Tot=  415 [ms] Ave/Min/Max= 1.69(+- 42.2)/    0/3e+03 [us] #=245965
+StrippingB2DMuNuX_D0_TIMINGPreScaler:Execute                   INFO Time User   : Tot=  411 [ms] Ave/Min/Max= 1.67(+-   41)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_Xic0_TIMINGPreScaler:Execute                 INFO Time User   : Tot=  399 [ms] Ave/Min/Max= 1.62(+-   41)/    0/3e+03 [us] #=246021
+StrippingStreamCharmBadEventPreScaler:Execute                  INFO Time User   : Tot=  356 [ms] Ave/Min/Max= 1.45(+- 38.1)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_D0_KKPreScaler:Execute                       INFO Time User   : Tot=  396 [ms] Ave/Min/Max= 1.61(+- 40.5)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_D0_ElectronPreScaler:Execute                 INFO Time User   : Tot=  457 [ms] Ave/Min/Max= 1.86(+- 43.7)/    0/2e+03 [us] #=246021
+StrippingStreamCharmPreScaler:Execute                          INFO Time User   : Tot=  397 [ms] Ave/Min/Max= 1.61(+- 40.7)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_Omegac_TIMINGVOIDFilter:Execute              INFO Time User   : Tot=  465 [ms] Ave/Min/Max= 1.89(+- 44.3)/    0/4e+03 [us] #=245965
+StrippingB2DMuNuX_D0_KKVOIDFilter:Execute                      INFO Time User   : Tot=  424 [ms] Ave/Min/Max= 1.72(+- 42.3)/    0/2e+03 [us] #=245965
+StrippingB2DMuNuX_Omegac_TIMINGPreScaler:Execute               INFO Time User   : Tot=  419 [ms] Ave/Min/Max=  1.7(+- 41.7)/    0/2e+03 [us] #=246021
+StrippingGlobal_Selection:EndRun                               INFO Time User   : Tot=  465 [ms] Ave/Min/Max=0.945(+- 30.7)/    0/1e+03 [us] #=492043
+StrippingB2DMuNuX_Ds_TIMINGPreScaler:Execute                   INFO Time User   : Tot=  411 [ms] Ave/Min/Max= 1.67(+- 41.8)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_Lc_TIMINGVOIDFilter:Execute                  INFO Time User   : Tot=  457 [ms] Ave/Min/Max= 1.86(+- 43.6)/    0/3e+03 [us] #=245965
+StrippingB2DMuNuX_Xic0_TIMINGVOIDFilter:Execute                INFO Time User   : Tot=  473 [ms] Ave/Min/Max= 1.92(+- 44.7)/    0/2e+03 [us] #=245965
+StrippingStreamSeqSemileptonic:Execute                         INFO Time User   : Tot=  467 [ms] Ave/Min/Max=  1.9(+- 44.5)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_D_TIMINGVOIDFilter:Execute                   INFO Time User   : Tot=  487 [ms] Ave/Min/Max= 1.98(+- 45.4)/    0/2e+03 [us] #=245965
+StrippingB2DMuNuX_Ds_TIMINGVOIDFilter:Execute                  INFO Time User   : Tot=  485 [ms] Ave/Min/Max= 1.97(+- 45.1)/    0/2e+03 [us] #=245965
+StrippingB2DMuNuX_D0_PiPiVOIDFilter:Execute                    INFO Time User   : Tot=  478 [ms] Ave/Min/Max= 1.94(+-   45)/    0/3e+03 [us] #=245965
+StrippingB2DMuNuX_D0_Electro_TIMINGVOIDFilter:Execute          INFO Time User   : Tot=0.501  [s] Ave/Min/Max= 2.04(+- 45.4)/    0/2e+03 [us] #=245965
+StrippingGlobal:EndRun                                         INFO Time User   : Tot=  462 [ms] Ave/Min/Max=0.939(+- 30.6)/    0/1e+03 [us] #=492043
+StrippingB2DMuNuX_D0_ElectronHlt1Filter:Initialize             INFO Time User   : Tot=0.763  [s]                                             #=  1
+StrippingB2DMuNuX_D0_TIMINGVOIDFilter:Execute                  INFO Time User   : Tot=0.508  [s] Ave/Min/Max= 2.07(+- 47.8)/    0/6e+03 [us] #=245965
+StrippingB2DMuNuX_Dp_FakeMuonPreScaler:Execute                 INFO Time User   : Tot=0.511  [s] Ave/Min/Max= 2.08(+- 45.8)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_Xic_TIMINGVOIDFilter:Execute                 INFO Time User   : Tot=  491 [ms] Ave/Min/Max=    2(+- 45.4)/    0/3e+03 [us] #=245965
+StrippingB2DMuNuX_Ds_FakeMuonPreScaler:Execute                 INFO Time User   : Tot=0.531  [s] Ave/Min/Max= 2.16(+- 47.7)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_Xic0_FakeMuonPreScaler:Execute               INFO Time User   : Tot=0.564  [s] Ave/Min/Max= 2.29(+- 48.3)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_Omegac_FakeMuonPreScaler:Execute             INFO Time User   : Tot=0.543  [s] Ave/Min/Max= 2.21(+- 47.5)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_Dp_FakeMuo_TIMINGPreScaler:Execute           INFO Time User   : Tot=0.559  [s] Ave/Min/Max= 2.27(+- 47.9)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_Lc_FakeMuonPreScaler:Execute                 INFO Time User   : Tot=0.585  [s] Ave/Min/Max= 2.38(+- 49.3)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_Xic_FakeMuonPreScaler:Execute                INFO Time User   : Tot=0.592  [s] Ave/Min/Max= 2.41(+-   50)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_Xic_FakeMuo_TIMINGPreScaler:Execute          INFO Time User   : Tot=0.566  [s] Ave/Min/Max=  2.3(+- 48.7)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_Lc_FakeMuo_TIMINGPreScaler:Execute           INFO Time User   : Tot=0.564  [s] Ave/Min/Max= 2.29(+- 48.8)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_Ds_FakeMuo_TIMINGPreScaler:Execute           INFO Time User   : Tot=0.588  [s] Ave/Min/Max= 2.39(+- 50.4)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_D0Hlt2Filter:Execute                         INFO Time User   : Tot=0.736  [s] Ave/Min/Max= 2.99(+- 54.7)/    0/2e+03 [us] #=246021
+StrippingStreamSemileptonicBadEventPreScaler:Execute           INFO Time User   : Tot=0.597  [s] Ave/Min/Max= 2.43(+-   50)/    0/3e+03 [us] #=246021
+StrippingGoodEventConditionCharm:Execute                       INFO Time User   : Tot=0.662  [s] Ave/Min/Max= 2.69(+-   53)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_Omegac_FakeMuo_TIMINGPreScaler:Execute       INFO Time User   : Tot=0.601  [s] Ave/Min/Max= 2.44(+- 50.5)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_Xic0_FakeMuo_TIMINGPreScaler:Execute         INFO Time User   : Tot=0.625  [s] Ave/Min/Max= 2.54(+- 51.4)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_D0_FakeMuo_TIMINGPreScaler:Execute           INFO Time User   : Tot=0.692  [s] Ave/Min/Max= 2.81(+- 53.9)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_DpHlt2Filter:Execute                         INFO Time User   : Tot=0.818  [s] Ave/Min/Max= 3.32(+- 58.1)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_DpHlt1Filter:Execute                         INFO Time User   : Tot=0.856  [s] Ave/Min/Max= 3.48(+- 59.1)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_D0Hlt1Filter:Execute                         INFO Time User   : Tot=0.905  [s] Ave/Min/Max= 3.68(+- 60.8)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_DsHlt2Filter:Execute                         INFO Time User   : Tot=0.847  [s] Ave/Min/Max= 3.44(+- 59.3)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_D0_FakeMuonPreScaler:Execute                 INFO Time User   : Tot=0.837  [s] Ave/Min/Max=  3.4(+- 59.3)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_LcHlt2Filter:Execute                         INFO Time User   : Tot=0.904  [s] Ave/Min/Max= 3.67(+- 61.1)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_DsHlt1Filter:Execute                         INFO Time User   : Tot=0.942  [s] Ave/Min/Max= 3.83(+- 62.1)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_LcHlt1Filter:Execute                         INFO Time User   : Tot=0.923  [s] Ave/Min/Max= 3.75(+- 62.1)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_OmegacHlt2Filter:Execute                     INFO Time User   : Tot= 0.98  [s] Ave/Min/Max= 3.98(+- 63.9)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_OmegacHlt1Filter:Execute                     INFO Time User   : Tot= 1.01  [s] Ave/Min/Max= 4.11(+- 64.8)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_XicHlt2Filter:Execute                        INFO Time User   : Tot= 1.01  [s] Ave/Min/Max= 4.12(+- 64.8)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_Xic0Hlt2Filter:Execute                       INFO Time User   : Tot= 1.02  [s] Ave/Min/Max= 4.13(+- 65.1)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_XicHlt1Filter:Execute                        INFO Time User   : Tot= 1.05  [s] Ave/Min/Max= 4.26(+- 65.7)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_D0_KK_TIMINGHlt2Filter:Execute               INFO Time User   : Tot= 1.05  [s] Ave/Min/Max= 4.28(+- 66.7)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_Ds_TIMINGHlt2Filter:Execute                  INFO Time User   : Tot= 1.07  [s] Ave/Min/Max= 4.35(+- 68.6)/    0/5e+03 [us] #=246021
+StrippingB2DMuNuX_Xic0Hlt1Filter:Execute                       INFO Time User   : Tot= 1.15  [s] Ave/Min/Max= 4.67(+- 69.2)/    0/3e+03 [us] #=246021
+StrippingStreamSemileptonicPreScaler:EndRun                    INFO Time User   : Tot=0.813  [s] Ave/Min/Max=0.826(+- 28.8)/    0/2e+03 [us] #=984086
+StrippingB2DMuNuX_Lc_TIMINGHlt2Filter:Execute                  INFO Time User   : Tot= 1.12  [s] Ave/Min/Max= 4.55(+- 68.7)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_D0_PiP_TIMINGHlt2Filter:Execute              INFO Time User   : Tot= 1.13  [s] Ave/Min/Max=  4.6(+- 69.8)/    0/5e+03 [us] #=246021
+StrippingB2DMuNuX_D0_TIMINGHlt2Filter:Execute                  INFO Time User   : Tot= 1.17  [s] Ave/Min/Max= 4.77(+-   70)/    0/3e+03 [us] #=246021
+StrippingStreamSemileptonicPostScaler:EndRun                   INFO Time User   : Tot=0.866  [s] Ave/Min/Max= 0.88(+- 29.7)/    0/2e+03 [us] #=984086
+StrippingStreamCharm:EndRun                                    INFO Time User   : Tot=0.879  [s] Ave/Min/Max=0.893(+- 29.9)/    0/1e+03 [us] #=984086
+StrippingB2DMuNuX_Omegac_TIMINGHlt2Filter:Execute              INFO Time User   : Tot= 1.19  [s] Ave/Min/Max= 4.83(+- 71.5)/    0/5e+03 [us] #=246021
+StrippingB2DMuNuX_D_TIMINGHlt2Filter:Execute                   INFO Time User   : Tot= 1.19  [s] Ave/Min/Max= 4.85(+- 70.6)/    0/2e+03 [us] #=246021
+StrippingStreamCharmPostScaler:EndRun                          INFO Time User   : Tot=0.874  [s] Ave/Min/Max=0.888(+- 29.9)/    0/2e+03 [us] #=984086
+StrippingB2DMuNuX_Xic0_TIMINGHlt2Filter:Execute                INFO Time User   : Tot= 1.18  [s] Ave/Min/Max= 4.81(+- 70.8)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_D0_KK_TIMINGHlt1Filter:Execute               INFO Time User   : Tot=  1.2  [s] Ave/Min/Max= 4.89(+- 70.6)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_D0_KKHlt2Filter:Execute                      INFO Time User   : Tot= 1.14  [s] Ave/Min/Max= 4.64(+- 69.8)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_D0_PiPiHlt2Filter:Execute                    INFO Time User   : Tot=  1.2  [s] Ave/Min/Max= 4.86(+- 71.2)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_D0FilterSequence:Execute                     INFO Time User   : Tot= 1.01  [s] Ave/Min/Max= 4.12(+- 64.3)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_Omegac_TIMINGHlt1Filter:Execute              INFO Time User   : Tot=  1.2  [s] Ave/Min/Max= 4.88(+- 70.9)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_D_TIMINGHlt1Filter:Execute                   INFO Time User   : Tot= 1.22  [s] Ave/Min/Max= 4.96(+- 71.5)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_D0_PiPiHlt1Filter:Execute                    INFO Time User   : Tot= 1.23  [s] Ave/Min/Max= 4.98(+- 72.4)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_Xic_TIMINGHlt2Filter:Execute                 INFO Time User   : Tot= 1.16  [s] Ave/Min/Max= 4.73(+- 70.2)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_Xic_TIMINGHlt1Filter:Execute                 INFO Time User   : Tot= 1.17  [s] Ave/Min/Max= 4.77(+-   70)/    0/3e+03 [us] #=246021
+StrippingStreamCharmPreScaler:EndRun                           INFO Time User   : Tot=0.969  [s] Ave/Min/Max=0.985(+- 31.4)/    0/2e+03 [us] #=984086
+StrippingBadEventSequenceSemileptonic:EndRun                   INFO Time User   : Tot=0.968  [s] Ave/Min/Max=0.983(+- 31.3)/    0/1e+03 [us] #=984086
+StrippingStreamSemileptonicFilterSequence:EndRun               INFO Time User   : Tot=0.945  [s] Ave/Min/Max= 0.96(+-   31)/    0/1e+03 [us] #=984086
+StrippingB2DMuNuX_Xic0_TIMINGHlt1Filter:Execute                INFO Time User   : Tot= 1.25  [s] Ave/Min/Max= 5.07(+- 73.1)/    0/5e+03 [us] #=246021
+StrippingBadEventSequenceCharm:EndRun                          INFO Time User   : Tot=0.958  [s] Ave/Min/Max=0.973(+- 31.2)/    0/2e+03 [us] #=984086
+StrippingStreamSeqCharm:EndRun                                 INFO Time User   : Tot=0.935  [s] Ave/Min/Max= 0.95(+- 30.8)/    0/2e+03 [us] #=984086
+StrippingB2DMuNuX_Ds_TIMINGHlt1Filter:Execute                  INFO Time User   : Tot= 1.29  [s] Ave/Min/Max= 5.24(+- 73.5)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_D0_PiP_TIMINGHlt1Filter:Execute              INFO Time User   : Tot= 1.25  [s] Ave/Min/Max=  5.1(+- 73.1)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_D0_Electro_TIMINGHlt2Filter:Execute          INFO Time User   : Tot= 1.24  [s] Ave/Min/Max= 5.04(+- 72.1)/    0/2e+03 [us] #=246021
+StrippingStreamSemileptonic:EndRun                             INFO Time User   : Tot=0.944  [s] Ave/Min/Max=0.959(+- 31.1)/    0/3e+03 [us] #=984086
+StrippingB2DMuNuX_Lc_TIMINGHlt1Filter:Execute                  INFO Time User   : Tot=  1.3  [s] Ave/Min/Max= 5.27(+-   74)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_D0_TIMINGHlt1Filter:Execute                  INFO Time User   : Tot= 1.27  [s] Ave/Min/Max= 5.17(+- 72.6)/    0/2e+03 [us] #=246021
+StrippingSequenceStreamSemileptonic:EndRun                     INFO Time User   : Tot=0.971  [s] Ave/Min/Max=0.987(+- 31.4)/    0/1e+03 [us] #=984086
+StrippingStreamSeqSemileptonic:EndRun                          INFO Time User   : Tot=    1  [s] Ave/Min/Max= 1.02(+-   32)/    0/2e+03 [us] #=984086
+StrippingProtectedSequenceSemileptonic:EndRun                  INFO Time User   : Tot=0.979  [s] Ave/Min/Max=0.995(+- 31.6)/    0/2e+03 [us] #=984086
+StrippingStreamCharmFilterSequence:EndRun                      INFO Time User   : Tot= 1.05  [s] Ave/Min/Max= 1.06(+- 32.6)/    0/1e+03 [us] #=984086
+StrippingSequenceStreamCharm:EndRun                            INFO Time User   : Tot= 1.04  [s] Ave/Min/Max= 1.06(+- 32.6)/    0/2e+03 [us] #=984086
+StrippingB2DMuNuX_DpFilterSequence:Execute                     INFO Time User   : Tot= 1.11  [s] Ave/Min/Max= 4.52(+-   68)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_DsFilterSequence:Execute                     INFO Time User   : Tot= 1.07  [s] Ave/Min/Max= 4.34(+- 66.2)/    0/2e+03 [us] #=246021
+StrippingProtectedSequenceCharm:EndRun                         INFO Time User   : Tot=0.986  [s] Ave/Min/Max=    1(+- 31.7)/    0/2e+03 [us] #=984086
+StrippingB2DMuNuX_D0_Electro_TIMINGHlt1Filter:Execute          INFO Time User   : Tot= 1.41  [s] Ave/Min/Max= 5.75(+- 76.3)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_LcFilterSequence:Execute                     INFO Time User   : Tot= 1.15  [s] Ave/Min/Max= 4.68(+- 69.3)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_OmegacFilterSequence:Execute                 INFO Time User   : Tot= 1.12  [s] Ave/Min/Max= 4.56(+- 67.8)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_XicFilterSequence:Execute                    INFO Time User   : Tot= 1.24  [s] Ave/Min/Max= 5.06(+- 72.3)/    0/5e+03 [us] #=246021
+StrippingB2DMuNuX_D0_KKHlt1Filter:Execute                      INFO Time User   : Tot= 1.53  [s] Ave/Min/Max= 6.21(+- 80.2)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_Xic0FilterSequence:Execute                   INFO Time User   : Tot= 1.24  [s] Ave/Min/Max= 5.03(+- 72.4)/    0/6e+03 [us] #=246021
+DSTWriterCharm:Execute                                         INFO Time User   : Tot= 1.24  [s] Ave/Min/Max= 5.04(+- 71.9)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_D0_PiP_TIMINGFilterSequence:Execute          INFO Time User   : Tot=  1.2  [s] Ave/Min/Max= 4.87(+-   71)/    0/3e+03 [us] #=246021
+StrippingStreamCharmFilterSequence:Execute                     INFO Time User   : Tot= 1.28  [s] Ave/Min/Max= 5.21(+- 73.1)/    0/3e+03 [us] #=246021
+LumiSeq:Execute                                                INFO Time User   : Tot= 1.39  [s] Ave/Min/Max= 5.64(+- 76.7)/    0/5e+03 [us] #=246021
+StrippingB2DMuNuX_Omegac_TIMINGFilterSequence:Execute          INFO Time User   : Tot= 1.38  [s] Ave/Min/Max= 5.59(+- 75.9)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_D0_KK_TIMINGFilterSequence:Execute           INFO Time User   : Tot= 1.28  [s] Ave/Min/Max= 5.19(+-   74)/    0/5e+03 [us] #=246021
+StrippingB2DMuNuX_Lc_TIMINGFilterSequence:Execute              INFO Time User   : Tot= 1.35  [s] Ave/Min/Max= 5.49(+- 75.1)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_D_TIMINGFilterSequence:Execute               INFO Time User   : Tot= 1.38  [s] Ave/Min/Max= 5.62(+- 76.1)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_Xic0_TIMINGFilterSequence:Execute            INFO Time User   : Tot= 1.37  [s] Ave/Min/Max= 5.59(+- 76.5)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_D0_PiPiFilterSequence:Execute                INFO Time User   : Tot= 1.38  [s] Ave/Min/Max= 5.61(+- 76.3)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_D0_TIMINGFilterSequence:Execute              INFO Time User   : Tot= 1.47  [s] Ave/Min/Max= 5.97(+- 79.1)/    0/6e+03 [us] #=246021
+StrippingB2DMuNuX_Xic_TIMINGFilterSequence:Execute             INFO Time User   : Tot= 1.43  [s] Ave/Min/Max= 5.82(+- 77.2)/    0/3e+03 [us] #=246021
+StrippingStreamSemileptonicFilterSequence:Execute              INFO Time User   : Tot= 1.43  [s] Ave/Min/Max= 5.81(+- 77.6)/    0/3e+03 [us] #=246021
+DSTWriterSemileptonic:Execute                                  INFO Time User   : Tot= 1.51  [s] Ave/Min/Max= 6.12(+- 79.3)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_Ds_TIMINGFilterSequence:Execute              INFO Time User   : Tot= 1.45  [s] Ave/Min/Max=  5.9(+-   78)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_D0_Electro_TIMINGFilterSequence:Execute      INFO Time User   : Tot= 1.49  [s] Ave/Min/Max= 6.06(+- 78.9)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_D0_ElectronFilterSequence:Execute            INFO Time User   : Tot= 1.94  [s] Ave/Min/Max= 7.89(+- 88.8)/    0/2e+03 [us] #=246021
+StrippingB2DMuNuX_Lc_TIMINGPostScaler:EndRun                   INFO Time User   : Tot= 1.78  [s] Ave/Min/Max=0.723(+- 26.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_FakeMuonPostScaler:EndRun             INFO Time User   : Tot=  1.8  [s] Ave/Min/Max=0.732(+- 27.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_FakeMuonHlt2Filter:EndRun                 INFO Time User   : Tot= 1.87  [s] Ave/Min/Max= 0.76(+- 27.6)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_LcHlt2Filter:EndRun                          INFO Time User   : Tot= 1.77  [s] Ave/Min/Max=0.721(+- 26.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_FakeMuonVOIDFilter:EndRun             INFO Time User   : Tot= 1.85  [s] Ave/Min/Max=0.752(+- 27.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_FakeMuo_TIMINGHlt2Filter:EndRun           INFO Time User   : Tot= 1.83  [s] Ave/Min/Max=0.745(+- 27.3)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_TIMINGPostScaler:EndRun                   INFO Time User   : Tot= 1.89  [s] Ave/Min/Max= 0.77(+- 27.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Dp_FakeMuonVOIDFilter:EndRun                 INFO Time User   : Tot= 1.86  [s] Ave/Min/Max=0.756(+- 27.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_FakeMuonHlt2Filter:EndRun             INFO Time User   : Tot=  1.9  [s] Ave/Min/Max=0.773(+- 27.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_DsHlt2Filter:EndRun                          INFO Time User   : Tot=  1.9  [s] Ave/Min/Max=0.773(+- 27.8)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Lc:EndRun                                             INFO Time User   : Tot= 1.83  [s] Ave/Min/Max=0.745(+- 27.3)/    0/3e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_TIMINGHlt2Filter:EndRun                   INFO Time User   : Tot= 1.87  [s] Ave/Min/Max=0.762(+- 27.6)/    0/2e+03 [us] #=2460214
+DaVinciEventInitSeq:Execute                                    INFO Time User   : Tot= 2.19  [s] Ave/Min/Max= 8.92(+- 95.5)/    0/3e+03 [us] #=246021
+B2DMuNuX_Ds:EndRun                                             INFO Time User   : Tot=  1.8  [s] Ave/Min/Max=0.732(+- 27.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_KKPostScaler:EndRun                       INFO Time User   : Tot=  1.9  [s] Ave/Min/Max=0.774(+- 27.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc:EndRun                                    INFO Time User   : Tot= 1.82  [s] Ave/Min/Max= 0.74(+- 27.2)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Dp_FakeMuonHlt2Filter:EndRun                 INFO Time User   : Tot= 1.85  [s] Ave/Min/Max= 0.75(+- 27.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_TIMINGVOIDFilter:EndRun                   INFO Time User   : Tot= 1.85  [s] Ave/Min/Max=0.751(+- 27.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_LcPostScaler:EndRun                          INFO Time User   : Tot= 1.87  [s] Ave/Min/Max=0.762(+- 27.6)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_FakeMuonVOIDFilter:EndRun                 INFO Time User   : Tot= 1.86  [s] Ave/Min/Max=0.757(+- 27.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_TIMINGHlt1Filter:EndRun                   INFO Time User   : Tot= 1.88  [s] Ave/Min/Max=0.763(+- 27.6)/    0/1e+03 [us] #=2460214
+StrippingB2DMuNuX_XicPostScaler:EndRun                         INFO Time User   : Tot= 1.96  [s] Ave/Min/Max=0.796(+- 28.2)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_FakeMuo_TIMINGPostScaler:EndRun           INFO Time User   : Tot= 1.92  [s] Ave/Min/Max=0.779(+- 27.9)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Dp:EndRun                                             INFO Time User   : Tot= 1.88  [s] Ave/Min/Max=0.763(+- 27.7)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_TIMINGHlt2Filter:EndRun                   INFO Time User   : Tot= 1.93  [s] Ave/Min/Max=0.784(+-   28)/    0/3e+03 [us] #=2460214
+StrippingB2DMuNuX_DsHlt1Filter:EndRun                          INFO Time User   : Tot= 1.93  [s] Ave/Min/Max=0.786(+- 28.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_TIMINGHlt2Filter:EndRun               INFO Time User   : Tot= 1.93  [s] Ave/Min/Max=0.783(+- 28.1)/    0/3e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_FakeMuonPostScaler:EndRun                 INFO Time User   : Tot= 1.88  [s] Ave/Min/Max=0.764(+- 27.7)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_FakeMuonPostScaler:EndRun                 INFO Time User   : Tot= 1.95  [s] Ave/Min/Max=0.792(+- 28.2)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Ds_TIMING:EndRun                                      INFO Time User   : Tot= 1.88  [s] Ave/Min/Max=0.763(+- 27.7)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_LcVOIDFilter:EndRun                          INFO Time User   : Tot= 1.87  [s] Ave/Min/Max=0.762(+- 27.6)/    0/1e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_TIMINGPreScaler:EndRun                INFO Time User   : Tot= 2.04  [s] Ave/Min/Max=0.828(+- 28.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_ElectronVOIDFilter:EndRun                 INFO Time User   : Tot= 1.99  [s] Ave/Min/Max=0.809(+- 28.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_LcHlt1Filter:EndRun                          INFO Time User   : Tot= 1.93  [s] Ave/Min/Max=0.786(+- 28.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_FakeMuonVOIDFilter:EndRun                 INFO Time User   : Tot= 1.93  [s] Ave/Min/Max=0.784(+-   28)/    0/1e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0Hlt2Filter:EndRun                        INFO Time User   : Tot= 1.98  [s] Ave/Min/Max=0.805(+- 28.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_TIMINGPreScaler:EndRun                    INFO Time User   : Tot= 1.97  [s] Ave/Min/Max=0.803(+- 28.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_FakeMuo_TIMING:EndRun                   INFO Time User   : Tot= 1.97  [s] Ave/Min/Max=0.803(+- 28.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0PostScaler:EndRun                        INFO Time User   : Tot= 1.97  [s] Ave/Min/Max=0.799(+- 28.3)/    0/1e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds:EndRun                                    INFO Time User   : Tot= 1.89  [s] Ave/Min/Max=0.769(+- 27.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_FakeMuonHlt2Filter:EndRun                 INFO Time User   : Tot= 1.92  [s] Ave/Min/Max=0.779(+- 27.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_TIMINGHlt2Filter:EndRun                 INFO Time User   : Tot= 2.02  [s] Ave/Min/Max=0.821(+- 28.7)/    0/3e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_FakeMuo_TIMINGPreScaler:EndRun            INFO Time User   : Tot= 1.98  [s] Ave/Min/Max=0.806(+- 28.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_FakeMuonPostScaler:EndRun                 INFO Time User   : Tot= 1.93  [s] Ave/Min/Max=0.785(+-   28)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_TIMINGPostScaler:EndRun               INFO Time User   : Tot= 1.94  [s] Ave/Min/Max=0.788(+- 28.1)/    0/1e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_FakeMuonVOIDFilter:EndRun                 INFO Time User   : Tot= 1.99  [s] Ave/Min/Max=0.808(+- 28.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_DpHlt2Filter:EndRun                          INFO Time User   : Tot= 1.99  [s] Ave/Min/Max=0.808(+- 28.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0VOIDFilter:EndRun                        INFO Time User   : Tot= 1.96  [s] Ave/Min/Max=0.798(+- 28.3)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_TIMINGHlt1Filter:EndRun                   INFO Time User   : Tot= 2.02  [s] Ave/Min/Max=0.821(+- 28.7)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Dp_FakeMuonPostScaler:EndRun                 INFO Time User   : Tot= 1.98  [s] Ave/Min/Max=0.803(+- 28.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_TIMINGHlt2Filter:EndRun                  INFO Time User   : Tot= 1.99  [s] Ave/Min/Max=0.809(+- 28.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_FakeMuonPreScaler:EndRun                  INFO Time User   : Tot= 1.97  [s] Ave/Min/Max=0.799(+- 28.3)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Lc_FakeMuon:EndRun                                    INFO Time User   : Tot= 1.95  [s] Ave/Min/Max=0.792(+- 28.2)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_TIMINGPreScaler:EndRun                    INFO Time User   : Tot=    2  [s] Ave/Min/Max=0.814(+- 28.6)/    0/3e+03 [us] #=2460214
+StrippingB2DMuNuX_D0PostScaler:EndRun                          INFO Time User   : Tot=  1.9  [s] Ave/Min/Max=0.773(+- 27.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_FakeMuo_TIMINGHlt1Filter:EndRun           INFO Time User   : Tot= 1.96  [s] Ave/Min/Max=0.798(+- 28.3)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_DsPostScaler:EndRun                          INFO Time User   : Tot= 1.96  [s] Ave/Min/Max=0.796(+- 28.2)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_FakeMuonHlt2Filter:EndRun               INFO Time User   : Tot= 1.97  [s] Ave/Min/Max=0.799(+- 28.3)/    0/3e+03 [us] #=2460214
+B2DMuNuX_Xic:EndRun                                            INFO Time User   : Tot= 1.94  [s] Ave/Min/Max=0.789(+- 28.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_FakeMuonHlt1Filter:EndRun             INFO Time User   : Tot= 1.96  [s] Ave/Min/Max=0.796(+- 28.2)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_FakeMuonPreScaler:EndRun                  INFO Time User   : Tot= 2.04  [s] Ave/Min/Max=0.827(+- 28.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_TIMINGPostScaler:EndRun                 INFO Time User   : Tot= 1.92  [s] Ave/Min/Max=0.779(+- 27.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_FakeMuo_TIMINGHlt1Filter:EndRun           INFO Time User   : Tot=    2  [s] Ave/Min/Max=0.812(+- 28.5)/    0/3e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_TIMINGVOIDFilter:EndRun               INFO Time User   : Tot= 1.95  [s] Ave/Min/Max=0.793(+- 28.2)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_TIMINGFilterSequence:EndRun               INFO Time User   : Tot= 1.99  [s] Ave/Min/Max=0.808(+- 28.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_PiPiHlt2Filter:EndRun                     INFO Time User   : Tot= 1.95  [s] Ave/Min/Max=0.791(+- 28.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_TIMINGHlt1Filter:EndRun               INFO Time User   : Tot= 2.04  [s] Ave/Min/Max= 0.83(+- 28.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_FakeMuonFilterSequence:EndRun             INFO Time User   : Tot= 2.04  [s] Ave/Min/Max=0.829(+- 28.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_XicPreScaler:EndRun                          INFO Time User   : Tot= 2.01  [s] Ave/Min/Max=0.816(+- 28.6)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_PiPiPostScaler:EndRun                     INFO Time User   : Tot= 1.99  [s] Ave/Min/Max= 0.81(+- 28.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_KK_TIMING:EndRun                          INFO Time User   : Tot= 1.98  [s] Ave/Min/Max=0.804(+- 28.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_FakeMuonHlt2Filter:EndRun                 INFO Time User   : Tot= 2.01  [s] Ave/Min/Max=0.815(+- 28.6)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_FakeMuonPostScaler:EndRun                INFO Time User   : Tot= 1.99  [s] Ave/Min/Max=0.811(+- 28.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D_TIMINGPostScaler:EndRun                    INFO Time User   : Tot= 2.02  [s] Ave/Min/Max=0.823(+- 28.7)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_FakeMuo_TIMINGHlt2Filter:EndRun           INFO Time User   : Tot=    2  [s] Ave/Min/Max=0.813(+- 28.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_TIMINGVOIDFilter:EndRun                 INFO Time User   : Tot= 1.99  [s] Ave/Min/Max=0.809(+- 28.5)/    0/3e+03 [us] #=2460214
+StrippingB2DMuNuX_LcPreScaler:EndRun                           INFO Time User   : Tot=    2  [s] Ave/Min/Max=0.812(+- 28.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_OmegacPreScaler:EndRun                       INFO Time User   : Tot= 2.02  [s] Ave/Min/Max=0.819(+- 28.6)/    0/1e+03 [us] #=2460214
+StrippingB2DMuNuX_DsVOIDFilter:EndRun                          INFO Time User   : Tot= 1.92  [s] Ave/Min/Max= 0.78(+-   28)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D_TIMINGHlt2Filter:EndRun                    INFO Time User   : Tot=    2  [s] Ave/Min/Max=0.811(+- 28.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_FakeMuo_TIMINGVOIDFilter:EndRun           INFO Time User   : Tot= 2.01  [s] Ave/Min/Max=0.819(+- 28.7)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_FakeMuonPostScaler:EndRun               INFO Time User   : Tot= 2.05  [s] Ave/Min/Max=0.834(+- 28.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_TIMINGPreScaler:EndRun                   INFO Time User   : Tot= 2.05  [s] Ave/Min/Max=0.833(+- 28.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_KKVOIDFilter:EndRun                       INFO Time User   : Tot= 1.98  [s] Ave/Min/Max=0.806(+- 28.4)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Lc_TIMING:EndRun                                      INFO Time User   : Tot= 1.92  [s] Ave/Min/Max=0.782(+-   28)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_DpVOIDFilter:EndRun                          INFO Time User   : Tot= 1.98  [s] Ave/Min/Max=0.807(+- 28.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_FakeMuo_TIMINGPostScaler:EndRun           INFO Time User   : Tot= 1.96  [s] Ave/Min/Max=0.797(+- 28.3)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_LcFilterSequence:EndRun                      INFO Time User   : Tot=  2.1  [s] Ave/Min/Max=0.854(+- 29.2)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_DpPostScaler:EndRun                          INFO Time User   : Tot= 1.98  [s] Ave/Min/Max=0.805(+- 28.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_FakeMuo_TIMING:EndRun                     INFO Time User   : Tot= 1.99  [s] Ave/Min/Max=0.811(+- 28.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_FakeMuo_TIMINGPreScaler:EndRun            INFO Time User   : Tot= 1.99  [s] Ave/Min/Max=0.809(+- 28.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Dp_FakeMuo_TIMINGPostScaler:EndRun           INFO Time User   : Tot= 1.99  [s] Ave/Min/Max=0.808(+- 28.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_XicHlt2Filter:EndRun                         INFO Time User   : Tot= 2.02  [s] Ave/Min/Max= 0.82(+- 28.7)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_FakeMuo_TIMINGHlt1Filter:EndRun           INFO Time User   : Tot= 1.99  [s] Ave/Min/Max= 0.81(+- 28.4)/    0/1e+03 [us] #=2460214
+StrippingB2DMuNuX_Dp_FakeMuonPreScaler:EndRun                  INFO Time User   : Tot= 2.03  [s] Ave/Min/Max=0.826(+- 28.7)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_FakeMuonFilterSequence:EndRun             INFO Time User   : Tot= 2.04  [s] Ave/Min/Max=0.831(+- 28.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Dp_FakeMuo_TIMINGHlt2Filter:EndRun           INFO Time User   : Tot= 1.98  [s] Ave/Min/Max=0.806(+- 28.4)/    0/2e+03 [us] #=2460214
+B2DMuNuX_D0:EndRun                                             INFO Time User   : Tot= 1.95  [s] Ave/Min/Max=0.792(+- 28.3)/    0/3e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_FakeMuonHlt1Filter:EndRun                 INFO Time User   : Tot= 2.03  [s] Ave/Min/Max=0.826(+- 28.8)/    0/3e+03 [us] #=2460214
+StrippingB2DMuNuX_D_TIMINGVOIDFilter:EndRun                    INFO Time User   : Tot=    2  [s] Ave/Min/Max=0.814(+- 28.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_TIMINGVOIDFilter:EndRun                   INFO Time User   : Tot= 1.92  [s] Ave/Min/Max=0.782(+-   28)/    0/3e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_FakeMuo_TIMINGPreScaler:EndRun            INFO Time User   : Tot= 2.05  [s] Ave/Min/Max=0.834(+- 28.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_KK_TIMINGHlt1Filter:EndRun                INFO Time User   : Tot= 2.06  [s] Ave/Min/Max=0.839(+-   29)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_Electro_TIMING:EndRun                     INFO Time User   : Tot= 2.09  [s] Ave/Min/Max=0.851(+- 29.2)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Dp:EndRun                                    INFO Time User   : Tot=    2  [s] Ave/Min/Max=0.814(+- 28.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_KKHlt2Filter:EndRun                       INFO Time User   : Tot= 2.05  [s] Ave/Min/Max=0.834(+- 28.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_OmegacHlt1Filter:EndRun                      INFO Time User   : Tot= 2.06  [s] Ave/Min/Max=0.836(+- 28.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_KK_TIMINGPostScaler:EndRun                INFO Time User   : Tot= 2.05  [s] Ave/Min/Max=0.831(+- 28.9)/    0/3e+03 [us] #=2460214
+StrippingB2DMuNuX_DpHlt1Filter:EndRun                          INFO Time User   : Tot= 2.08  [s] Ave/Min/Max=0.847(+- 29.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_OmegacPostScaler:EndRun                      INFO Time User   : Tot= 1.98  [s] Ave/Min/Max=0.806(+- 28.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Dp_FakeMuonHlt1Filter:EndRun                 INFO Time User   : Tot= 2.05  [s] Ave/Min/Max=0.832(+- 28.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_FakeMuonFilterSequence:EndRun         INFO Time User   : Tot= 2.07  [s] Ave/Min/Max=0.843(+-   29)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_TIMINGVOIDFilter:EndRun                   INFO Time User   : Tot= 2.06  [s] Ave/Min/Max=0.839(+-   29)/    0/3e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_Electro_TIMINGPreScaler:EndRun            INFO Time User   : Tot= 2.08  [s] Ave/Min/Max=0.847(+- 29.1)/    0/3e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_FakeMuo_TIMINGPostScaler:EndRun           INFO Time User   : Tot= 2.07  [s] Ave/Min/Max=0.841(+- 29.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_TIMING:EndRun                             INFO Time User   : Tot= 1.98  [s] Ave/Min/Max=0.807(+- 28.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_TIMINGPostScaler:EndRun                   INFO Time User   : Tot= 2.02  [s] Ave/Min/Max=0.822(+- 28.7)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_KK_TIMINGHlt2Filter:EndRun                INFO Time User   : Tot= 2.05  [s] Ave/Min/Max=0.833(+- 28.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_Electro_TIMINGHlt1Filter:EndRun           INFO Time User   : Tot= 2.08  [s] Ave/Min/Max=0.844(+- 29.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_TIMINGPostScaler:EndRun                  INFO Time User   : Tot=    2  [s] Ave/Min/Max=0.812(+- 28.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_TIMINGFilterSequence:EndRun               INFO Time User   : Tot= 2.12  [s] Ave/Min/Max=0.862(+- 29.4)/    0/3e+03 [us] #=2460214
+B2DMuNuX_D0_KK:EndRun                                          INFO Time User   : Tot= 2.06  [s] Ave/Min/Max=0.836(+-   29)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0VOIDFilter:EndRun                          INFO Time User   : Tot= 2.01  [s] Ave/Min/Max=0.817(+- 28.6)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_FakeMuonPreScaler:EndRun              INFO Time User   : Tot= 2.07  [s] Ave/Min/Max=0.842(+-   29)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_FakeMuon:EndRun                           INFO Time User   : Tot=  2.1  [s] Ave/Min/Max=0.855(+- 29.3)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_Electro_TIMINGVOIDFilter:EndRun           INFO Time User   : Tot= 2.01  [s] Ave/Min/Max=0.816(+- 28.6)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0Hlt2Filter:EndRun                          INFO Time User   : Tot= 2.05  [s] Ave/Min/Max=0.834(+- 28.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_FakeMuo_TIMINGHlt2Filter:EndRun          INFO Time User   : Tot= 2.08  [s] Ave/Min/Max=0.844(+- 29.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_FakeMuo_TIMINGVOIDFilter:EndRun           INFO Time User   : Tot= 2.01  [s] Ave/Min/Max=0.818(+- 28.6)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0:EndRun                                  INFO Time User   : Tot= 2.09  [s] Ave/Min/Max=0.848(+- 29.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_XicHlt1Filter:EndRun                         INFO Time User   : Tot= 2.16  [s] Ave/Min/Max=0.878(+- 29.7)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_TIMINGFilterSequence:EndRun           INFO Time User   : Tot= 2.18  [s] Ave/Min/Max=0.885(+- 29.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_Electro_TIMINGHlt2Filter:EndRun           INFO Time User   : Tot= 2.11  [s] Ave/Min/Max=0.858(+- 29.3)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_FakeMuo_TIMINGHlt2Filter:EndRun           INFO Time User   : Tot= 2.06  [s] Ave/Min/Max=0.837(+- 28.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Dp_FakeMuo_TIMINGHlt1Filter:EndRun           INFO Time User   : Tot= 2.04  [s] Ave/Min/Max=0.829(+- 28.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_FakeMuo_TIMING:EndRun                 INFO Time User   : Tot= 2.08  [s] Ave/Min/Max=0.845(+- 29.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_ElectronPostScaler:EndRun                 INFO Time User   : Tot= 2.11  [s] Ave/Min/Max=0.859(+- 29.3)/    0/1e+03 [us] #=2460214
+B2DMuNuX_Xic_FakeMuon:EndRun                                   INFO Time User   : Tot= 2.08  [s] Ave/Min/Max=0.846(+- 29.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_FakeMuo_TIMINGHlt1Filter:EndRun       INFO Time User   : Tot=  2.1  [s] Ave/Min/Max=0.855(+- 29.2)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_FakeMuo_TIMINGPostScaler:EndRun         INFO Time User   : Tot= 2.01  [s] Ave/Min/Max=0.815(+- 28.6)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Dp_FakeMuo_TIMINGPreScaler:EndRun            INFO Time User   : Tot= 2.04  [s] Ave/Min/Max=0.828(+- 28.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_OmegacVOIDFilter:EndRun                      INFO Time User   : Tot= 2.04  [s] Ave/Min/Max= 0.83(+- 28.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_FakeMuonVOIDFilter:EndRun               INFO Time User   : Tot=  2.1  [s] Ave/Min/Max=0.854(+- 29.3)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_TIMINGHlt1Filter:EndRun                 INFO Time User   : Tot= 2.07  [s] Ave/Min/Max= 0.84(+-   29)/    0/2e+03 [us] #=2460214
+B2DMuNuX_D0_Electron:EndRun                                    INFO Time User   : Tot= 2.13  [s] Ave/Min/Max=0.867(+- 29.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_KK:EndRun                                 INFO Time User   : Tot= 2.12  [s] Ave/Min/Max=0.861(+- 29.3)/    0/1e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_FakeMuonHlt1Filter:EndRun                 INFO Time User   : Tot= 2.04  [s] Ave/Min/Max=0.831(+- 28.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_KK_TIMINGPreScaler:EndRun                 INFO Time User   : Tot=  2.1  [s] Ave/Min/Max=0.852(+- 29.2)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_OmegacHlt2Filter:EndRun                      INFO Time User   : Tot= 2.05  [s] Ave/Min/Max=0.834(+- 28.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_ElectronHlt2Filter:EndRun                 INFO Time User   : Tot= 2.05  [s] Ave/Min/Max=0.833(+- 28.9)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Xic0:EndRun                                           INFO Time User   : Tot= 2.06  [s] Ave/Min/Max=0.837(+-   29)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0Hlt1Filter:EndRun                        INFO Time User   : Tot= 2.12  [s] Ave/Min/Max=0.863(+- 29.5)/    0/3e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_FakeMuon:EndRun                           INFO Time User   : Tot= 1.99  [s] Ave/Min/Max= 0.81(+- 28.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_KKHlt1Filter:EndRun                       INFO Time User   : Tot=  2.1  [s] Ave/Min/Max=0.853(+- 29.3)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_FakeMuon:EndRun                          INFO Time User   : Tot= 2.03  [s] Ave/Min/Max=0.826(+- 28.7)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_FakeMuonHlt1Filter:EndRun                 INFO Time User   : Tot= 2.09  [s] Ave/Min/Max= 0.85(+- 29.2)/    0/2e+03 [us] #=2460214
+B2DMuNuX_D0_FakeMuon:EndRun                                    INFO Time User   : Tot= 2.07  [s] Ave/Min/Max=0.842(+-   29)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_FakeMuonPreScaler:EndRun                  INFO Time User   : Tot=  2.1  [s] Ave/Min/Max=0.853(+- 29.2)/    0/2e+03 [us] #=2460214
+B2DMuNuX_D0_KK_TIMING:EndRun                                   INFO Time User   : Tot= 2.05  [s] Ave/Min/Max=0.833(+- 28.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_DsPreScaler:EndRun                           INFO Time User   : Tot= 2.05  [s] Ave/Min/Max=0.834(+- 28.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_FakeMuonFilterSequence:EndRun             INFO Time User   : Tot= 2.07  [s] Ave/Min/Max=0.842(+-   29)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_FakeMuo_TIMINGPreScaler:EndRun           INFO Time User   : Tot= 2.17  [s] Ave/Min/Max=0.882(+- 29.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_PiPiHlt1Filter:EndRun                     INFO Time User   : Tot= 2.09  [s] Ave/Min/Max=0.849(+- 29.2)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Dp_FakeMuon:EndRun                           INFO Time User   : Tot= 2.06  [s] Ave/Min/Max=0.836(+- 28.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_PiPiVOIDFilter:EndRun                     INFO Time User   : Tot= 2.07  [s] Ave/Min/Max=0.843(+-   29)/    0/1e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_FakeMuo_TIMING:EndRun                     INFO Time User   : Tot= 2.07  [s] Ave/Min/Max= 0.84(+-   29)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_FakeMuo_TIMINGHlt2Filter:EndRun       INFO Time User   : Tot= 2.04  [s] Ave/Min/Max=0.829(+- 28.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_TIMING:EndRun                           INFO Time User   : Tot= 2.07  [s] Ave/Min/Max=0.843(+- 29.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Dp_FakeMuo_TIMINGVOIDFilter:EndRun           INFO Time User   : Tot=    2  [s] Ave/Min/Max=0.814(+- 28.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_DsFilterSequence:EndRun                      INFO Time User   : Tot= 2.09  [s] Ave/Min/Max=0.849(+- 29.2)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Dp_FakeMuonFilterSequence:EndRun             INFO Time User   : Tot= 2.11  [s] Ave/Min/Max=0.857(+- 29.3)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Xic0_TIMING:EndRun                                    INFO Time User   : Tot= 2.08  [s] Ave/Min/Max=0.844(+- 29.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_TIMING:EndRun                             INFO Time User   : Tot= 2.06  [s] Ave/Min/Max=0.838(+-   29)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0PreScaler:EndRun                           INFO Time User   : Tot= 2.15  [s] Ave/Min/Max=0.876(+- 29.6)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Omegac_FakeMuon:EndRun                                INFO Time User   : Tot= 2.11  [s] Ave/Min/Max= 0.86(+- 29.3)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_FakeMuo_TIMING:EndRun                    INFO Time User   : Tot= 2.12  [s] Ave/Min/Max=0.861(+- 29.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_PiP_TIMINGPreScaler:EndRun                INFO Time User   : Tot= 2.15  [s] Ave/Min/Max=0.876(+- 29.9)/    0/7e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_FakeMuon:EndRun                       INFO Time User   : Tot= 2.07  [s] Ave/Min/Max=0.843(+-   29)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_PiP_TIMINGHlt2Filter:EndRun               INFO Time User   : Tot= 2.03  [s] Ave/Min/Max=0.826(+- 28.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_FakeMuonVOIDFilter:EndRun                INFO Time User   : Tot=  2.1  [s] Ave/Min/Max=0.855(+- 29.3)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D_TIMING:EndRun                              INFO Time User   : Tot= 2.15  [s] Ave/Min/Max=0.873(+- 29.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_XicVOIDFilter:EndRun                         INFO Time User   : Tot= 2.08  [s] Ave/Min/Max=0.845(+- 29.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac:EndRun                                INFO Time User   : Tot= 2.08  [s] Ave/Min/Max=0.846(+- 29.1)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Lc_FakeMuo_TIMING:EndRun                              INFO Time User   : Tot= 2.02  [s] Ave/Min/Max= 0.82(+- 28.6)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Dp_FakeMuo_TIMING:EndRun                              INFO Time User   : Tot= 2.08  [s] Ave/Min/Max=0.845(+- 29.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_FakeMuo_TIMING:EndRun                     INFO Time User   : Tot= 2.12  [s] Ave/Min/Max=0.862(+- 29.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0PreScaler:EndRun                         INFO Time User   : Tot= 2.14  [s] Ave/Min/Max=0.872(+- 29.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_FakeMuo_TIMINGHlt1Filter:EndRun         INFO Time User   : Tot= 2.15  [s] Ave/Min/Max=0.875(+- 29.6)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_FakeMuo_TIMINGHlt2Filter:EndRun         INFO Time User   : Tot= 2.16  [s] Ave/Min/Max=0.877(+- 29.7)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_DpPreScaler:EndRun                           INFO Time User   : Tot= 2.22  [s] Ave/Min/Max=0.903(+- 30.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_FakeMuo_TIMINGVOIDFilter:EndRun           INFO Time User   : Tot= 2.09  [s] Ave/Min/Max=0.849(+- 29.1)/    0/1e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_FakeMuonHlt1Filter:EndRun               INFO Time User   : Tot= 2.16  [s] Ave/Min/Max=0.879(+- 29.7)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Xic0_FakeMuon:EndRun                                  INFO Time User   : Tot= 2.13  [s] Ave/Min/Max=0.866(+- 29.4)/    0/1e+03 [us] #=2460214
+B2DMuNuX_Ds_FakeMuon:EndRun                                    INFO Time User   : Tot= 2.03  [s] Ave/Min/Max=0.823(+- 28.7)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_FakeMuonPreScaler:EndRun                 INFO Time User   : Tot= 2.06  [s] Ave/Min/Max=0.838(+-   29)/    0/3e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_FakeMuo_TIMINGPreScaler:EndRun          INFO Time User   : Tot= 2.09  [s] Ave/Min/Max=0.848(+- 29.2)/    0/2e+03 [us] #=2460214
+B2DMuNuX_D0_TIMING:EndRun                                      INFO Time User   : Tot= 2.08  [s] Ave/Min/Max=0.847(+- 29.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_TIMINGHlt2Filter:EndRun                   INFO Time User   : Tot= 2.16  [s] Ave/Min/Max=0.878(+- 29.7)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_PiPi:EndRun                               INFO Time User   : Tot= 2.12  [s] Ave/Min/Max=0.863(+- 29.4)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Omegac:EndRun                                         INFO Time User   : Tot= 2.05  [s] Ave/Min/Max=0.832(+- 28.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_PiPiPreScaler:EndRun                      INFO Time User   : Tot= 2.15  [s] Ave/Min/Max=0.873(+- 29.6)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Dp_FakeMuon:EndRun                                    INFO Time User   : Tot= 2.12  [s] Ave/Min/Max=0.863(+- 29.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_TIMINGPreScaler:EndRun                  INFO Time User   : Tot= 2.18  [s] Ave/Min/Max=0.886(+- 29.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_KKPreScaler:EndRun                        INFO Time User   : Tot= 2.27  [s] Ave/Min/Max=0.923(+- 30.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_Electro_TIMINGPostScaler:EndRun           INFO Time User   : Tot= 2.07  [s] Ave/Min/Max=0.842(+-   29)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_TIMING:EndRun                         INFO Time User   : Tot= 2.14  [s] Ave/Min/Max=0.868(+- 29.5)/    0/2e+03 [us] #=2460214
+B2DMuNuX_D0_Electro_TIMING:EndRun                              INFO Time User   : Tot= 2.18  [s] Ave/Min/Max=0.885(+- 29.7)/    0/1e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_TIMING:EndRun                            INFO Time User   : Tot= 2.17  [s] Ave/Min/Max=0.882(+- 29.7)/    0/2e+03 [us] #=2460214
+B2DMuNuX_D_TIMING:EndRun                                       INFO Time User   : Tot= 2.13  [s] Ave/Min/Max=0.866(+- 29.5)/    0/4e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_PiP_TIMINGPostScaler:EndRun               INFO Time User   : Tot= 2.11  [s] Ave/Min/Max=0.859(+- 29.4)/    0/4e+03 [us] #=2460214
+StrippingB2DMuNuX_D_TIMINGPreScaler:EndRun                     INFO Time User   : Tot= 2.24  [s] Ave/Min/Max=0.912(+- 30.2)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_OmegacFilterSequence:EndRun                  INFO Time User   : Tot= 2.22  [s] Ave/Min/Max=0.902(+- 30.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D_TIMINGHlt1Filter:EndRun                    INFO Time User   : Tot= 2.19  [s] Ave/Min/Max=0.891(+- 29.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Dp_FakeMuo_TIMING:EndRun                     INFO Time User   : Tot= 2.09  [s] Ave/Min/Max=0.851(+- 29.2)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_FakeMuo_TIMINGHlt1Filter:EndRun          INFO Time User   : Tot= 2.22  [s] Ave/Min/Max=0.904(+- 30.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_TIMINGHlt1Filter:EndRun                   INFO Time User   : Tot= 2.21  [s] Ave/Min/Max=0.897(+-   30)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0Hlt1Filter:EndRun                          INFO Time User   : Tot= 2.15  [s] Ave/Min/Max=0.875(+- 29.6)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_PiP_TIMINGHlt1Filter:EndRun               INFO Time User   : Tot= 2.16  [s] Ave/Min/Max=0.878(+- 29.6)/    0/1e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_TIMING:EndRun                             INFO Time User   : Tot= 2.13  [s] Ave/Min/Max=0.864(+- 29.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_KKFilterSequence:EndRun                   INFO Time User   : Tot= 2.22  [s] Ave/Min/Max=0.902(+-   30)/    0/1e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_Electron:EndRun                           INFO Time User   : Tot= 2.11  [s] Ave/Min/Max=0.857(+- 29.3)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic:EndRun                                   INFO Time User   : Tot= 2.13  [s] Ave/Min/Max=0.866(+- 29.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_FakeMuo_TIMINGPreScaler:EndRun        INFO Time User   : Tot= 2.29  [s] Ave/Min/Max=0.932(+- 30.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_PiP_TIMINGVOIDFilter:EndRun               INFO Time User   : Tot= 2.13  [s] Ave/Min/Max=0.865(+- 29.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_TIMINGVOIDFilter:EndRun                  INFO Time User   : Tot= 2.13  [s] Ave/Min/Max=0.864(+- 29.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_KK_TIMINGFilterSequence:EndRun            INFO Time User   : Tot= 2.27  [s] Ave/Min/Max=0.923(+- 30.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_KK_TIMINGVOIDFilter:EndRun                INFO Time User   : Tot= 2.13  [s] Ave/Min/Max=0.866(+- 29.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_FakeMuo_TIMINGVOIDFilter:EndRun          INFO Time User   : Tot= 2.21  [s] Ave/Min/Max=0.899(+-   30)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_ElectronPreScaler:EndRun                  INFO Time User   : Tot= 2.19  [s] Ave/Min/Max= 0.89(+- 29.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_FakeMuo_TIMINGVOIDFilter:EndRun         INFO Time User   : Tot= 2.22  [s] Ave/Min/Max=0.902(+- 30.1)/    0/3e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_FakeMuo_TIMINGPostScaler:EndRun          INFO Time User   : Tot= 2.24  [s] Ave/Min/Max=0.912(+- 30.2)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_ElectronHlt1Filter:EndRun                 INFO Time User   : Tot= 2.23  [s] Ave/Min/Max=0.908(+- 30.1)/    0/2e+03 [us] #=2460214
+B2DMuNuX_D0_PiPi:EndRun                                        INFO Time User   : Tot= 2.15  [s] Ave/Min/Max=0.875(+- 29.6)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_FakeMuonHlt2Filter:EndRun                INFO Time User   : Tot= 2.21  [s] Ave/Min/Max=  0.9(+-   30)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_XicFilterSequence:EndRun                     INFO Time User   : Tot= 2.21  [s] Ave/Min/Max=0.899(+-   30)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_FakeMuo_TIMINGVOIDFilter:EndRun       INFO Time User   : Tot= 2.23  [s] Ave/Min/Max=0.905(+- 30.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_TIMINGHlt1Filter:EndRun                  INFO Time User   : Tot= 2.26  [s] Ave/Min/Max=0.919(+- 30.3)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0FilterSequence:EndRun                    INFO Time User   : Tot=  2.3  [s] Ave/Min/Max=0.936(+- 30.6)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0:EndRun                                    INFO Time User   : Tot= 2.26  [s] Ave/Min/Max=0.918(+- 30.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_FakeMuonFilterSequence:EndRun            INFO Time User   : Tot= 2.26  [s] Ave/Min/Max=0.921(+- 30.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D_TIMINGFilterSequence:EndRun                INFO Time User   : Tot= 2.26  [s] Ave/Min/Max=0.918(+- 30.3)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Xic_TIMING:EndRun                                     INFO Time User   : Tot= 2.18  [s] Ave/Min/Max=0.886(+- 29.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_ElectronFilterSequence:EndRun             INFO Time User   : Tot= 2.25  [s] Ave/Min/Max=0.913(+- 30.2)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_FakeMuo_TIMINGFilterSequence:EndRun   INFO Time User   : Tot= 2.22  [s] Ave/Min/Max=0.902(+-   30)/    0/2e+03 [us] #=2460214
+B2DMuNuX_D0_FakeMuo_TIMING:EndRun                              INFO Time User   : Tot= 2.21  [s] Ave/Min/Max=0.898(+-   30)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_FakeMuonHlt1Filter:EndRun                INFO Time User   : Tot= 2.38  [s] Ave/Min/Max=0.968(+- 31.1)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Xic_FakeMuo_TIMING:EndRun                             INFO Time User   : Tot= 2.23  [s] Ave/Min/Max=0.905(+- 30.1)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_FakeMuonFilterSequence:EndRun           INFO Time User   : Tot= 2.31  [s] Ave/Min/Max=0.938(+- 30.7)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Omegac_FakeMuo_TIMINGPostScaler:EndRun       INFO Time User   : Tot= 2.28  [s] Ave/Min/Max=0.926(+- 30.4)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Lc_FakeMuo_TIMINGFilterSequence:EndRun       INFO Time User   : Tot= 2.28  [s] Ave/Min/Max=0.928(+- 30.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_TIMINGPreScaler:EndRun                    INFO Time User   : Tot= 2.39  [s] Ave/Min/Max=0.972(+- 31.2)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Omegac_FakeMuo_TIMING:EndRun                          INFO Time User   : Tot= 2.26  [s] Ave/Min/Max=0.917(+- 30.3)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_FakeMuonPreScaler:EndRun                INFO Time User   : Tot= 2.32  [s] Ave/Min/Max=0.944(+- 30.7)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_FakeMuon:EndRun                         INFO Time User   : Tot= 2.28  [s] Ave/Min/Max=0.927(+- 30.5)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Ds_FakeMuo_TIMING:EndRun                              INFO Time User   : Tot= 2.19  [s] Ave/Min/Max=0.891(+- 29.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0FilterSequence:EndRun                      INFO Time User   : Tot= 2.32  [s] Ave/Min/Max=0.945(+- 30.7)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_FakeMuon:EndRun                           INFO Time User   : Tot= 2.26  [s] Ave/Min/Max=0.917(+- 30.3)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_PiPiFilterSequence:EndRun                 INFO Time User   : Tot= 2.28  [s] Ave/Min/Max=0.927(+- 30.5)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Xic0_FakeMuo_TIMING:EndRun                            INFO Time User   : Tot= 2.31  [s] Ave/Min/Max= 0.94(+- 30.7)/    0/2e+03 [us] #=2460214
+B2DMuNuX_Omegac_TIMING:EndRun                                  INFO Time User   : Tot= 2.32  [s] Ave/Min/Max=0.944(+- 30.7)/    0/1e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_Electro_TIMINGFilterSequence:EndRun       INFO Time User   : Tot= 2.36  [s] Ave/Min/Max= 0.96(+-   31)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_TIMINGFilterSequence:EndRun              INFO Time User   : Tot=  2.4  [s] Ave/Min/Max=0.974(+- 31.2)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic_FakeMuo_TIMINGFilterSequence:EndRun      INFO Time User   : Tot= 2.44  [s] Ave/Min/Max=0.993(+- 31.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_FakeMuo_TIMINGFilterSequence:EndRun     INFO Time User   : Tot= 2.43  [s] Ave/Min/Max= 0.99(+- 31.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Xic0_TIMINGFilterSequence:EndRun             INFO Time User   : Tot= 2.36  [s] Ave/Min/Max=0.961(+-   31)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_DpFilterSequence:EndRun                      INFO Time User   : Tot= 2.43  [s] Ave/Min/Max=0.988(+- 31.4)/    0/2e+03 [us] #=2460214
+B2DMuNuX_D0_PiP_TIMING:EndRun                                  INFO Time User   : Tot= 2.35  [s] Ave/Min/Max=0.957(+- 30.9)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Ds_FakeMuo_TIMINGFilterSequence:EndRun       INFO Time User   : Tot=  2.4  [s] Ave/Min/Max=0.974(+- 31.2)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_Dp_FakeMuo_TIMINGFilterSequence:EndRun       INFO Time User   : Tot= 2.35  [s] Ave/Min/Max=0.957(+-   31)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_PiP_TIMINGFilterSequence:EndRun           INFO Time User   : Tot= 2.34  [s] Ave/Min/Max=0.951(+- 30.9)/    0/3e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_TIMINGFilterSequence:EndRun               INFO Time User   : Tot= 2.49  [s] Ave/Min/Max= 1.01(+- 31.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_PiP_TIMING:EndRun                         INFO Time User   : Tot= 2.34  [s] Ave/Min/Max=0.949(+- 30.8)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_FakeMuo_TIMINGFilterSequence:EndRun       INFO Time User   : Tot= 2.45  [s] Ave/Min/Max=0.994(+- 31.5)/    0/2e+03 [us] #=2460214
+StrippingB2DMuNuX_D0_KKFilterSequence:Execute                  INFO Time User   : Tot= 2.53  [s] Ave/Min/Max= 10.3(+-  103)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_Dp_FakeMuon:Execute                          INFO Time User   : Tot= 3.41  [s] Ave/Min/Max= 13.9(+-  119)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_Lc_FakeMuon:Execute                          INFO Time User   : Tot= 3.43  [s] Ave/Min/Max= 13.9(+-  119)/    0/5e+03 [us] #=246021
+StrippingB2DMuNuX_Ds_FakeMuon:Execute                          INFO Time User   : Tot= 3.55  [s] Ave/Min/Max= 14.4(+-  121)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_Lc_FakeMuo_TIMING:Execute                    INFO Time User   : Tot= 3.55  [s] Ave/Min/Max= 14.4(+-  121)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_Omegac_FakeMuon:Execute                      INFO Time User   : Tot= 3.68  [s] Ave/Min/Max=   15(+-  126)/    0/1.3e+04 [us] #=246021
+StrippingB2DMuNuX_Xic0_FakeMuon:Execute                        INFO Time User   : Tot=  3.7  [s] Ave/Min/Max=   15(+-  124)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_Xic_FakeMuon:Execute                         INFO Time User   : Tot= 3.76  [s] Ave/Min/Max= 15.3(+-  125)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_D0_FakeMuon:Execute                          INFO Time User   : Tot= 3.87  [s] Ave/Min/Max= 15.7(+-  126)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_Dp_FakeMuo_TIMING:Execute                    INFO Time User   : Tot= 3.78  [s] Ave/Min/Max= 15.4(+-  125)/    0/5e+03 [us] #=246021
+StrippingB2DMuNuX_Ds_FakeMuo_TIMING:Execute                    INFO Time User   : Tot= 3.68  [s] Ave/Min/Max= 14.9(+-  124)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_Xic_FakeMuo_TIMING:Execute                   INFO Time User   : Tot= 3.64  [s] Ave/Min/Max= 14.8(+-  123)/    0/5e+03 [us] #=246021
+StrippingB2DMuNuX_Omegac_FakeMuo_TIMING:Execute                INFO Time User   : Tot= 3.79  [s] Ave/Min/Max= 15.4(+-  126)/    0/5e+03 [us] #=246021
+StrippingB2DMuNuX_Xic0_FakeMuo_TIMING:Execute                  INFO Time User   : Tot= 3.77  [s] Ave/Min/Max= 15.3(+-  125)/    0/3e+03 [us] #=246021
+StrippingB2DMuNuX_D0_FakeMuo_TIMING:Execute                    INFO Time User   : Tot= 4.12  [s] Ave/Min/Max= 16.7(+-  131)/    0/3e+03 [us] #=246021
+MyDSTWriterMainSeq:Execute                                     INFO Time User   : Tot= 4.44  [s] Ave/Min/Max= 18.1(+-  136)/    0/3e+03 [us] #=246021
+eforB2DMuNuX:EndRun                                            INFO Time User   : Tot= 3.67  [s] Ave/Min/Max=0.747(+- 27.3)/    0/2e+03 [us] #=4920428
+StrippingStreamCharmBadEvent:Execute                           INFO Time User   : Tot= 4.83  [s] Ave/Min/Max= 19.6(+-  142)/    0/6e+03 [us] #=246021
+CharmSelForD0_KKB2DMuNuX:EndRun                                INFO Time User   : Tot= 4.15  [s] Ave/Min/Max=0.843(+- 29.1)/    0/2e+03 [us] #=4920428
+CharmSelForD0_PiPiB2DMuNuX:EndRun                              INFO Time User   : Tot= 4.33  [s] Ave/Min/Max=0.881(+- 29.7)/    0/2e+03 [us] #=4920428
+CharmSelForD0_ElectronB2DMuNuX:EndRun                          INFO Time User   : Tot= 4.58  [s] Ave/Min/Max=0.931(+- 30.5)/    0/2e+03 [us] #=4920428
+SelFilterPhys_StdLooseElectrons_Particles:EndRun               INFO Time User   : Tot= 4.78  [s] Ave/Min/Max=0.971(+- 31.2)/    0/3e+03 [us] #=4920428
+StrippingStreamCharm:Execute                                   INFO Time User   : Tot= 5.29  [s] Ave/Min/Max= 21.5(+-  148)/    0/4e+03 [us] #=246021
+StrippingStreamSemileptonic:Execute                            INFO Time User   : Tot= 5.24  [s] Ave/Min/Max= 21.3(+-  147)/    0/5e+03 [us] #=246021
+StrippingBadEventSequenceCharm:Execute                         INFO Time User   : Tot= 5.85  [s] Ave/Min/Max= 23.8(+-  156)/    0/6e+03 [us] #=246021
+StrippingB2DMuNuX_D0:Execute                                   INFO Time User   : Tot= 6.72  [s] Ave/Min/Max= 27.3(+-  164)/    0/6e+03 [us] #=246021
+StrippingB2DMuNuX_Dp:Execute                                   INFO Time User   : Tot= 6.66  [s] Ave/Min/Max= 27.1(+-  164)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_Ds:Execute                                   INFO Time User   : Tot=    7  [s] Ave/Min/Max= 28.4(+-  168)/    0/5e+03 [us] #=246021
+StrippingB2DMuNuX_Lc:Execute                                   INFO Time User   : Tot= 7.34  [s] Ave/Min/Max= 29.8(+-  172)/    0/4e+03 [us] #=246021
+ProcStatusCheck:Execute                                        INFO Time User   : Tot= 9.97  [s] Ave/Min/Max= 40.5(+-  203)/    0/9e+03 [us] #=246021
+StrippingB2DMuNuX_Omegac:Execute                               INFO Time User   : Tot= 7.68  [s] Ave/Min/Max= 31.2(+-  176)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_Xic:Execute                                  INFO Time User   : Tot= 8.17  [s] Ave/Min/Max= 33.2(+-  182)/    0/5e+03 [us] #=246021
+StrippingB2DMuNuX_Xic0:Execute                                 INFO Time User   : Tot= 8.48  [s] Ave/Min/Max= 34.5(+-  185)/    0/6e+03 [us] #=246021
+StrippingB2DMuNuX_D0_PiP_TIMING:Execute                        INFO Time User   : Tot= 9.05  [s] Ave/Min/Max= 36.8(+-  193)/    0/5e+03 [us] #=246021
+StrippingB2DMuNuX_D0_KK_TIMING:Execute                         INFO Time User   : Tot= 9.01  [s] Ave/Min/Max= 36.6(+-  192)/    0/5e+03 [us] #=246021
+StrippingB2DMuNuX_D_TIMING:Execute                             INFO Time User   : Tot= 9.35  [s] Ave/Min/Max=   38(+-  195)/    0/5e+03 [us] #=246021
+StrippingB2DMuNuX_Xic0_TIMING:Execute                          INFO Time User   : Tot= 9.29  [s] Ave/Min/Max= 37.8(+-  195)/    0/5e+03 [us] #=246021
+StrippingB2DMuNuX_Omegac_TIMING:Execute                        INFO Time User   : Tot= 9.43  [s] Ave/Min/Max= 38.3(+-  196)/    0/5e+03 [us] #=246021
+StrippingB2DMuNuX_D0_PiPi:Execute                              INFO Time User   : Tot= 9.34  [s] Ave/Min/Max=   38(+-  195)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_Lc_TIMING:Execute                            INFO Time User   : Tot= 9.42  [s] Ave/Min/Max= 38.3(+-  196)/    0/6e+03 [us] #=246021
+StrippingB2DMuNuX_Xic_TIMING:Execute                           INFO Time User   : Tot= 9.48  [s] Ave/Min/Max= 38.5(+-  196)/    0/6e+03 [us] #=246021
+StrippingB2DMuNuX_Ds_TIMING:Execute                            INFO Time User   : Tot= 9.53  [s] Ave/Min/Max= 38.8(+-  198)/    0/6e+03 [us] #=246021
+StrippingB2DMuNuX_D0_TIMING:Execute                            INFO Time User   : Tot= 9.68  [s] Ave/Min/Max= 39.4(+-  198)/    0/6e+03 [us] #=246021
+CharmSelForDsB2DMuNuX:EndRun                                   INFO Time User   : Tot= 7.67  [s] Ave/Min/Max=0.779(+-   28)/    0/4e+03 [us] #=9840856
+CharmSelForLcB2DMuNuX:EndRun                                   INFO Time User   : Tot= 8.11  [s] Ave/Min/Max=0.825(+- 28.7)/    0/2e+03 [us] #=9840856
+StrippingB2DMuNuX_D0_Electro_TIMING:Execute                    INFO Time User   : Tot= 10.1  [s] Ave/Min/Max= 41.2(+-  202)/    0/6e+03 [us] #=246021
+CharmSelForD0B2DMuNuX:EndRun                                   INFO Time User   : Tot= 7.86  [s] Ave/Min/Max=0.798(+- 28.3)/    0/2e+03 [us] #=9840856
+StrippingGoodEventConditionCharm:EndRun                        INFO Time User   : Tot= 8.18  [s] Ave/Min/Max=0.832(+- 28.9)/    0/2e+03 [us] #=9840856
+CharmSelForDpB2DMuNuX:EndRun                                   INFO Time User   : Tot= 7.97  [s] Ave/Min/Max= 0.81(+- 28.5)/    0/5e+03 [us] #=9840856
+CharmSelForXicB2DMuNuX:EndRun                                  INFO Time User   : Tot= 8.17  [s] Ave/Min/Max= 0.83(+- 28.8)/    0/2e+03 [us] #=9840856
+CharmSelForXic0B2DMuNuX:EndRun                                 INFO Time User   : Tot= 8.59  [s] Ave/Min/Max=0.873(+- 29.6)/    0/2e+03 [us] #=9840856
+CharmSelForOmegacB2DMuNuX:EndRun                               INFO Time User   : Tot= 8.58  [s] Ave/Min/Max=0.872(+- 29.6)/    0/2e+03 [us] #=9840856
+StrippingB2DMuNuX_D0_KK:Execute                                INFO Time User   : Tot= 10.9  [s] Ave/Min/Max= 44.2(+-  210)/    0/5e+03 [us] #=246021
+StrippingB2DMuNuX_D0_ElectronVOIDFilter:Initialize             INFO Time User   : Tot= 16.6  [s]                                             #=  1
+StrippingB2DMuNuX_D0_ElectronFilterSequence:Initialize         INFO Time User   : Tot= 17.4  [s]                                             #=  1
+DaVinciInitAlg:Execute                                         INFO Time User   : Tot=  8.9  [s] Ave/Min/Max= 36.2(+-  190)/    0/4e+03 [us] #=246021
+StrippingB2DMuNuX_D0_Electron:Initialize                       INFO Time User   : Tot= 18.3  [s]                                             #=  1
+StrippingProtectedSequenceSemileptonic:Initialize              INFO Time User   : Tot= 18.5  [s]                                             #=  1
+StrippingSequenceStreamSemileptonic:Initialize                 INFO Time User   : Tot= 18.5  [s]                                             #=  1
+StrippingGlobal_Selection:Initialize                           INFO Time User   : Tot= 18.5  [s]                                             #=  1
+StrippingGlobal:Initialize                                     INFO Time User   : Tot= 18.5  [s]                                             #=  1
+DaVinciUserSequence:Initialize                                 INFO Time User   : Tot=   19  [s]                                             #=  1
+DaVinciAnalysisSeq:Initialize                                  INFO Time User   : Tot=   19  [s]                                             #=  1
+FilteredEventSeq:Initialize                                    INFO Time User   : Tot=   19  [s]                                             #=  1
+Hlt2DecReportsDecoder:Execute                                  INFO Time User   : Tot= 19.3  [s] Ave/Min/Max= 78.5(+-  271)/    0/4e+03 [us] #=246021
+DaVinciEventSeq:Initialize                                     INFO Time User   : Tot= 19.6  [s]                                             #=  1
+StrippingB2DMuNuX_D0_ElectronHlt2Filter:Execute                INFO Time User   : Tot=   22  [s] Ave/Min/Max= 89.4(+-  287)/    0/4e+03 [us] #=246021
+StrippingStreamCharmBadEventPreScaler:EndRun                   INFO Time User   : Tot= 15.5  [s] Ave/Min/Max=0.751(+- 27.4)/    0/2e+03 [us] #=20665798
+StrippingStreamCharmBadEvent:EndRun                            INFO Time User   : Tot= 15.2  [s] Ave/Min/Max=0.736(+- 27.2)/    0/2e+03 [us] #=20665798
+StrippingStreamCharmBadEventPostScaler:EndRun                  INFO Time User   : Tot= 16.1  [s] Ave/Min/Max= 0.78(+- 27.9)/    0/3e+03 [us] #=20665798
+StrippingStreamCharmBadEventFilterSequence:EndRun              INFO Time User   : Tot= 16.7  [s] Ave/Min/Max=0.808(+- 28.5)/    0/3e+03 [us] #=20665798
+FakeMuonsForB2DMuNuX:EndRun                                    INFO Time User   : Tot= 26.2  [s] Ave/Min/Max= 0.76(+- 27.6)/    0/2e+03 [us] #=34442996
+SelFilterPhys_StdNoPIDsMuons_Particles:EndRun                  INFO Time User   : Tot= 27.3  [s] Ave/Min/Max=0.793(+- 28.2)/    0/4e+03 [us] #=34442996
+ProtonsForB2DMuNuX:EndRun                                      INFO Time User   : Tot= 27.8  [s] Ave/Min/Max=0.707(+- 26.6)/    0/2e+03 [us] #=39363424
+SelFilterPhys_StdLooseProtons_Particles:EndRun                 INFO Time User   : Tot= 31.4  [s] Ave/Min/Max=0.799(+- 28.3)/    0/4e+03 [us] #=39363424
+MuforB2DMuNuX:EndRun                                           INFO Time User   : Tot= 32.8  [s] Ave/Min/Max=0.742(+- 27.3)/    0/4e+03 [us] #=44283852
+SelFilterPhys_StdLooseMuons_Particles:EndRun                   INFO Time User   : Tot= 35.4  [s] Ave/Min/Max=0.799(+- 28.3)/    0/3e+03 [us] #=44283852
+StrippingReport:Execute                                        INFO Time User   : Tot= 47.6  [s] Ave/Min/Max=  193(+-  407)/    0/7e+03 [us] #=246021
+StrippingProtectedSequenceCharm:Execute                        INFO Time User   : Tot= 47.1  [s] Ave/Min/Max=  192(+-  407)/    0/5e+03 [us] #=246021
+StrippingSequenceStreamCharm:Execute                           INFO Time User   : Tot= 54.5  [s] Ave/Min/Max=  221(+-  431)/    0/6e+03 [us] #=246021
+PiforB2DMuNuX:EndRun                                           INFO Time User   : Tot= 55.4  [s] Ave/Min/Max=0.703(+- 26.5)/    0/2e+03 [us] #=78726848
+KforB2DMuNuX:EndRun                                            INFO Time User   : Tot= 56.2  [s] Ave/Min/Max=0.714(+- 26.8)/    0/3e+03 [us] #=78726848
+StrippingGoodEventConditionSemileptonic:EndRun                 INFO Time User   : Tot= 61.1  [s] Ave/Min/Max=0.828(+- 28.8)/    0/3e+03 [us] #=73806420
+SelFilterPhys_StdLoosePions_Particles:EndRun                   INFO Time User   : Tot= 61.6  [s] Ave/Min/Max=0.783(+-   28)/    0/4e+03 [us] #=78726848
+SelFilterPhys_StdLooseKaons_Particles:EndRun                   INFO Time User   : Tot= 63.3  [s] Ave/Min/Max=0.805(+- 28.4)/    0/3e+03 [us] #=78726848
+checkPVmin1:EndRun                                             INFO Time User   : Tot=   60  [s] Ave/Min/Max=0.718(+- 26.8)/    0/4e+03 [us] #=83647276
+AlgorithmCorrelationsAlg:Execute                               INFO Time User   : Tot=  169  [s] Ave/Min/Max=0.688(+-0.561)/    0/   56 [ms] #=246021
+StrippingStreamSemileptonicBadEvent:EndRun                     INFO Time User   : Tot=  112  [s] Ave/Min/Max=0.753(+- 27.5)/    0/5e+03 [us] #=148596926
+StrippingStreamSemileptonicBadEventPreScaler:EndRun            INFO Time User   : Tot=  112  [s] Ave/Min/Max=0.755(+- 27.5)/    0/4e+03 [us] #=148596926
+StrippingStreamSemileptonicBadEventPostScaler:EndRun           INFO Time User   : Tot=  117  [s] Ave/Min/Max=0.787(+- 28.1)/    0/3e+03 [us] #=148596926
+StrippingStreamSemileptonicBadEventFilterSequence:EndRun       INFO Time User   : Tot=  133  [s] Ave/Min/Max=0.894(+- 29.9)/    0/5e+03 [us] #=148596926
+ProcStatusCheck:EndRun                                         INFO Time User   : Tot=  120  [s] Ave/Min/Max=0.707(+- 26.6)/    0/8e+03 [us] #=169262724
+checkPVmin0:EndRun                                             INFO Time User   : Tot=  121  [s] Ave/Min/Max=0.706(+- 26.6)/    0/6e+03 [us] #=171230896
+create_Trigger_RawEvent:Execute                                INFO Time User   : Tot=  172  [s] Ave/Min/Max=0.699(+-0.615)/    0/   14 [ms] #=246021
+unpackFittedVeloTracks:Execute                                 INFO Time User   : Tot=  267  [s] Ave/Min/Max= 1.53(+- 6.09)/    0/   58 [ms] #=174066
+Hlt1DecReportsDecoder:Execute                                  INFO Time User   : Tot=  178  [s] Ave/Min/Max=0.725(+-  1.8)/    0/  841 [ms] #=246021
+StrippingB2DMuNuX_D0_ElectronHlt1Filter:Execute                INFO Time User   : Tot=  182  [s] Ave/Min/Max=0.742(+-  2.1)/    0/  993 [ms] #=246021
+StrippingB2DMuNuX_D0_Electron:Execute                          INFO Time User   : Tot=  212  [s] Ave/Min/Max=0.862(+- 2.11)/    0/  995 [ms] #=246021
+UnpackRecVertex:Execute                                        INFO Time User   : Tot=  312  [s] Ave/Min/Max= 1.27(+- 5.23)/    0/   58 [ms] #=246021
+checkPVmin0:Execute                                            INFO Time User   : Tot=  317  [s] Ave/Min/Max= 1.29(+- 5.23)/    0/   58 [ms] #=246021
+StrippingStreamSemileptonicBadEventFilterSequence:Execute      INFO Time User   : Tot=  330  [s] Ave/Min/Max= 1.34(+- 5.24)/    0/   58 [ms] #=246021
+StrippingStreamSemileptonicBadEvent:Execute                    INFO Time User   : Tot=  341  [s] Ave/Min/Max= 1.38(+- 5.25)/    0/   59 [ms] #=246021
+StrippingBadEventSequenceSemileptonic:Execute                  INFO Time User   : Tot=  342  [s] Ave/Min/Max= 1.39(+- 5.25)/    0/   59 [ms] #=246021
+StrippingProtectedSequenceSemileptonic:Execute                 INFO Time User   : Tot=  417  [s] Ave/Min/Max=  1.7(+- 2.23)/    0/  997 [ms] #=246021
+StrippingSequenceStreamSemileptonic:Execute                    INFO Time User   : Tot= 12.7[min] Ave/Min/Max= 3.09(+- 5.76)/    0/1e+03 [ms] #=246021
+StrippingGlobal_Selection:Execute                              INFO Time User   : Tot= 13.6[min] Ave/Min/Max= 3.32(+- 5.78)/    0/1e+03 [ms] #=246021
+StrippingGlobal:Execute                                        INFO Time User   : Tot= 13.6[min] Ave/Min/Max= 3.32(+- 5.78)/    0/1e+03 [ms] #=246021
+DaVinciUserSequence:Execute                                    INFO Time User   : Tot= 17.4[min] Ave/Min/Max= 4.24(+- 5.83)/    0/1e+03 [ms] #=246021
+DaVinciAnalysisSeq:Execute                                     INFO Time User   : Tot= 17.4[min] Ave/Min/Max= 4.25(+- 5.84)/    0/1e+03 [ms] #=246021
+FilteredEventSeq:Execute                                       INFO Time User   : Tot= 17.5[min] Ave/Min/Max= 4.26(+- 5.84)/    0/1e+03 [ms] #=246021
+DaVinciEventSeq:Execute                                        INFO Time User   : Tot= 17.7[min] Ave/Min/Max= 4.32(+- 5.84)/    0/1e+03 [ms] #=246021
+ChronoStatSvc                                                  INFO Time User   : Tot=  131[min]                                             #=  1
+*****Chrono*****                                               INFO ****************************************************************************************************
+ChronoStatSvc.finalize()                                       INFO  Service finalized successfully
+ApplicationMgr                                              WARNING Failed to finalize a service.
+ApplicationMgr                                                ERROR Application Manager failed to finalize
+ApplicationMgr                                                ERROR Application Manager Terminated with error code 11
+[mwilkins@lxplus0093 LFN10]$ ls
+ls: cannot access DV_stripping_histos.root: Permission denied
+DV_stripping_histos.root
+[1]+  Exit 11                 gaudirun.py ../TestMyStrippingLine_noGEC_modified.py
+[mwilkins@lxplus0093 LFN10]$ 

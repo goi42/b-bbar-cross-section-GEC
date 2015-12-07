@@ -1,0 +1,19 @@
+
+EventSelector                                               SUCCESS Reading Event record 1294001. Record number within stream 29: 55344
+StrippingReport                                                INFO Event 1294100, Good event 1294100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 1294200, Good event 1294200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 1294300, Good event 1294300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 1294400, Good event 1294400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+Error in <TNetXNGFile::ReadBuffers>: [ERROR] Operation expired
+Error in <TBranchElement::GetBasket>: File: root://eoslhcb.cern.ch//eos/lhcb/grid/prod/lhcb/freezer/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00008728_1.rdst at byte:2329603032, branch:_Event., entry:55800, badread=1, nerrors=1, basketnumber=1116
+RootCnvSvc                                                    ERROR Error: createObj> Cannot access the object:141AF2E4-F171-E511-B5E8-002655216880:/Event
+EventLoopMgr                                                WARNING Unable to retrieve Event root object
+

@@ -1,0 +1,626 @@
+
+StrippingReport                                                INFO Event 5574300, Good event 5574300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5574400, Good event 5574400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5574500, Good event 5574500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5574600, Good event 5574600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5574700, Good event 5574700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5574800, Good event 5574800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5574900, Good event 5574900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5575000, Good event 5575000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5575100, Good event 5575100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5575200, Good event 5575200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5575300, Good event 5575300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5575400, Good event 5575400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5575500, Good event 5575500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5575600, Good event 5575600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5575700, Good event 5575700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5575800, Good event 5575800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5575900, Good event 5575900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5576000, Good event 5576000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+EventSelector                                               SUCCESS Reading Event record 5576001. Record number within stream 102: 40856
+StrippingReport                                                INFO Event 5576100, Good event 5576100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5576200, Good event 5576200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5576300, Good event 5576300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5576400, Good event 5576400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5576500, Good event 5576500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5576600, Good event 5576600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5576700, Good event 5576700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5576800, Good event 5576800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5576900, Good event 5576900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5577000, Good event 5577000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5577100, Good event 5577100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5577200, Good event 5577200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5577300, Good event 5577300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5577400, Good event 5577400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5577500, Good event 5577500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5577600, Good event 5577600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5577700, Good event 5577700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5577800, Good event 5577800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5577900, Good event 5577900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5578000, Good event 5578000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+EventSelector                                               SUCCESS Reading Event record 5578001. Record number within stream 102: 42856
+StrippingReport                                                INFO Event 5578100, Good event 5578100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5578200, Good event 5578200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5578300, Good event 5578300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5578400, Good event 5578400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5578500, Good event 5578500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5578600, Good event 5578600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5578700, Good event 5578700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5578800, Good event 5578800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5578900, Good event 5578900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5579000, Good event 5579000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5579100, Good event 5579100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5579200, Good event 5579200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5579300, Good event 5579300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5579400, Good event 5579400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5579500, Good event 5579500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5579600, Good event 5579600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5579700, Good event 5579700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5579800, Good event 5579800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5579900, Good event 5579900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5580000, Good event 5580000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+EventSelector                                               SUCCESS Reading Event record 5580001. Record number within stream 102: 44856
+StrippingReport                                                INFO Event 5580100, Good event 5580100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5580200, Good event 5580200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5580300, Good event 5580300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5580400, Good event 5580400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5580500, Good event 5580500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5580600, Good event 5580600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5580700, Good event 5580700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5580800, Good event 5580800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5580900, Good event 5580900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5581000, Good event 5581000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5581100, Good event 5581100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5581200, Good event 5581200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5581300, Good event 5581300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5581400, Good event 5581400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5581500, Good event 5581500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5581600, Good event 5581600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5581700, Good event 5581700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5581800, Good event 5581800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5581900, Good event 5581900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5582000, Good event 5582000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+EventSelector                                               SUCCESS Reading Event record 5582001. Record number within stream 102: 46856
+StrippingReport                                                INFO Event 5582100, Good event 5582100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5582200, Good event 5582200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5582300, Good event 5582300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5582400, Good event 5582400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5582500, Good event 5582500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5582600, Good event 5582600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5582700, Good event 5582700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5582800, Good event 5582800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5582900, Good event 5582900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5583000, Good event 5583000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5583100, Good event 5583100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5583200, Good event 5583200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5583300, Good event 5583300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5583400, Good event 5583400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5583500, Good event 5583500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5583600, Good event 5583600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5583700, Good event 5583700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5583800, Good event 5583800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5583900, Good event 5583900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5584000, Good event 5584000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+EventSelector                                               SUCCESS Reading Event record 5584001. Record number within stream 102: 48856
+StrippingReport                                                INFO Event 5584100, Good event 5584100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5584200, Good event 5584200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5584300, Good event 5584300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5584400, Good event 5584400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5584500, Good event 5584500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5584600, Good event 5584600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5584700, Good event 5584700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5584800, Good event 5584800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5584900, Good event 5584900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5585000, Good event 5585000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5585100, Good event 5585100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5585200, Good event 5585200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5585300, Good event 5585300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5585400, Good event 5585400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5585500, Good event 5585500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5585600, Good event 5585600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5585700, Good event 5585700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5585800, Good event 5585800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5585900, Good event 5585900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5586000, Good event 5586000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+EventSelector                                               SUCCESS Reading Event record 5586001. Record number within stream 102: 50856
+StrippingReport                                                INFO Event 5586100, Good event 5586100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5586200, Good event 5586200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5586300, Good event 5586300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5586400, Good event 5586400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5586500, Good event 5586500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5586600, Good event 5586600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5586700, Good event 5586700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5586800, Good event 5586800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5586900, Good event 5586900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5587000, Good event 5587000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5587100, Good event 5587100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5587200, Good event 5587200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5587300, Good event 5587300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5587400, Good event 5587400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5587500, Good event 5587500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5587600, Good event 5587600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5587700, Good event 5587700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5587800, Good event 5587800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5587900, Good event 5587900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5588000, Good event 5588000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+EventSelector                                               SUCCESS Reading Event record 5588001. Record number within stream 102: 52856
+StrippingReport                                                INFO Event 5588100, Good event 5588100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5588200, Good event 5588200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5588300, Good event 5588300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5588400, Good event 5588400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5588500, Good event 5588500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5588600, Good event 5588600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5588700, Good event 5588700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5588800, Good event 5588800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5588900, Good event 5588900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5589000, Good event 5589000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5589100, Good event 5589100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5589200, Good event 5589200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5589300, Good event 5589300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5589400, Good event 5589400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5589500, Good event 5589500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5589600, Good event 5589600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5589700, Good event 5589700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5589800, Good event 5589800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5589900, Good event 5589900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5590000, Good event 5590000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+EventSelector                                               SUCCESS Reading Event record 5590001. Record number within stream 102: 54856
+StrippingReport                                                INFO Event 5590100, Good event 5590100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5590200, Good event 5590200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5590300, Good event 5590300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5590400, Good event 5590400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5590500, Good event 5590500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5590600, Good event 5590600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5590700, Good event 5590700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5590800, Good event 5590800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5590900, Good event 5590900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5591000, Good event 5591000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5591100, Good event 5591100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5591200, Good event 5591200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5591300, Good event 5591300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5591400, Good event 5591400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5591500, Good event 5591500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5591600, Good event 5591600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5591700, Good event 5591700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5591800, Good event 5591800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5591900, Good event 5591900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5592000, Good event 5592000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+EventSelector                                               SUCCESS Reading Event record 5592001. Record number within stream 102: 56856
+StrippingReport                                                INFO Event 5592100, Good event 5592100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5592200, Good event 5592200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5592300, Good event 5592300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5592400, Good event 5592400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5592500, Good event 5592500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5592600, Good event 5592600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5592700, Good event 5592700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5592800, Good event 5592800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5592900, Good event 5592900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5593000, Good event 5593000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5593100, Good event 5593100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5593200, Good event 5593200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5593300, Good event 5593300
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5593400, Good event 5593400
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5593500, Good event 5593500
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5593600, Good event 5593600
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5593700, Good event 5593700
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5593800, Good event 5593800
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5593900, Good event 5593900
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5594000, Good event 5594000
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+EventSelector                                               SUCCESS Reading Event record 5594001. Record number within stream 102: 58856
+StrippingReport                                                INFO Event 5594100, Good event 5594100
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+StrippingReport                                                INFO Event 5594200, Good event 5594200
+ |                                              *Decision name*|*Rate,%*|*Accepted*| *Mult*|*ms/evt*|
+
+EventLoopMgr                                                   INFO No more events in event selection
+[mwilkins@lxplus0093 LFNall]$
+[1]+  Killed                  gaudirun.py ../TestMyStrippingLine_noGEC_modified.py
+[mwilkins@lxplus0093 LFNall]$ ls
+DV_stripping_histos.root  firsttry
+[mwilkins@lxplus0093 LFNall]$ klist
+Ticket cache: FILE:/tmp/krb5cc_66834_kpHMGH
+Default principal: mwilkins@CERN.CH
+
+Valid starting     Expires            Service principal
+11/20/15 14:17:44  11/21/15 15:17:44  krbtgt/CERN.CH@CERN.CH
+        renew until 11/25/15 14:17:44
+11/20/15 14:17:45  11/21/15 15:17:44  afs/cern.ch@CERN.CH
+        renew until 11/25/15 14:17:44
+[mwilkins@lxplus0093 LFNall]$
