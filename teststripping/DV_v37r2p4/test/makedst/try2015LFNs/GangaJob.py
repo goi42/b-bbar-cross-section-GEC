@@ -3,6 +3,7 @@ import os #use this file for everything
 #myApplication = DaVinci(version='v37r2p4')
 #myApplication.user_release_area = '~/cmtuser'
 myApplication = DaVinci()
+myApplication.user_release_area = '~/cmtuser'
 myApplication.version = 'v37r2p4'
 myApplication.optsfile = [File('./TestMyStrippingLineAndCreateNtuple.py')]
 
