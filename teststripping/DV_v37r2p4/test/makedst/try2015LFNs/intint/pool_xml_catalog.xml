@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- Edited By PoolXMLCatalog.py -->
+<!DOCTYPE POOLFILECATALOG SYSTEM "InMemory">
+<POOLFILECATALOG>
+
+<File ID="201747EF-8E71-E511-9082-0CC47A4D99B6">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/buffer/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000008_1.rdst" se="CNAF-BUFFER"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000008_1.rdst"/>
+   </logical>
+</File>
+<File ID="764D2416-8671-E511-9412-0CC47A4D9A3C">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/buffer/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000009_1.rdst" se="CNAF-BUFFER"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000009_1.rdst"/>
+   </logical>
+</File>
+<File ID="B09E1DB7-8371-E511-B990-0CC47A4DECCC">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/buffer/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000005_1.rdst" se="CNAF-BUFFER"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000005_1.rdst"/>
+   </logical>
+</File>
+<File ID="14C45392-8471-E511-98FE-0CC47A4DED46">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/buffer/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000001_1.rdst" se="CNAF-BUFFER"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000001_1.rdst"/>
+   </logical>
+</File>
+<File ID="BA9BE656-9171-E511-86BB-0025907B5002">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/buffer/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000003_1.rdst" se="CNAF-BUFFER"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000003_1.rdst"/>
+   </logical>
+</File>
+<File ID="802D3EAE-8571-E511-B78C-20CF305B0559">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/buffer/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000010_1.rdst" se="CNAF-BUFFER"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000010_1.rdst"/>
+   </logical>
+</File>
+<File ID="D6A035C6-8471-E511-91FF-0090FAA57960">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/buffer/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000011_1.rdst" se="CNAF-BUFFER"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000011_1.rdst"/>
+   </logical>
+</File>
+<File ID="9AAF15D7-8471-E511-A9B4-0090FAA59E44">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/buffer/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000002_1.rdst" se="CNAF-BUFFER"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000002_1.rdst"/>
+   </logical>
+</File>
+<File ID="68CCBFC3-8571-E511-ADBF-0CC47A4DEE88">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/buffer/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000004_1.rdst" se="CNAF-BUFFER"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000004_1.rdst"/>
+   </logical>
+</File>
+<File ID="021A7C65-8671-E511-871E-0090FAA58864">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/buffer/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000006_1.rdst" se="CNAF-BUFFER"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000006_1.rdst"/>
+   </logical>
+</File>
+<File ID="A057D8B2-8D71-E511-81F8-0090FAA57280">
+   <physical>
+      <pfn filetype="ROOT_All" name="root://xrootd-lhcb.cr.cnaf.infn.it//storage/gpfs_lhcb/lhcb/disk/buffer/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000007_1.rdst" se="CNAF-BUFFER"/>
+   </physical>
+   <logical>
+      <lfn name="/lhcb/LHCb/Collision15/RDST/00048237/0000/00048237_00000007_1.rdst"/>
+   </logical>
+</File>
+
+</POOLFILECATALOG>
