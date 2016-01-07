@@ -326,8 +326,8 @@ DaVinci().UserAlgorithms = [
 			]
 
 # input file
-#importOptions("164668_Real Data_Reco15a_90000000_RDST.py")
+importOptions("LHCb_Collision15_Beam6500GeVVeloClosedMagDown_Real Data_Reco15a_90000000_RDST.py")
 # from Gaudi.Configuration import *
 # from GaudiConf import IOHelper
-# IOHelper('ROOT').inputFiles(['00048237_00008700_1.rdst'], clear=True)
+# IOHelper('ROOT').inputFiles(['LHCb_Collision15_Beam6500GeVVeloClosedMagDown_Real Data_Reco15a_90000000_RDST.py'], clear=True)
 # FileCatalog().Catalogs += [ 'xmlcatalog_file:$STRIPPINGSELECTIONSROOT/tests/data/Reco15a_Run164668.xml' ]
